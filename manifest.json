@@ -1,0 +1,19 @@
+{
+  "name": "Habiba's English Guide",
+  "short_name": "English Guide",
+  "description": "Grade 12 English final-exam preparation — learn by theme, practise by skill, and take a mock exam. Bilingual with friendly Arabic explanations.",
+  "lang": "en",
+  "dir": "ltr",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#FAF5EC",
+  "theme_color": "#126E63",
+  "categories": ["education"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}

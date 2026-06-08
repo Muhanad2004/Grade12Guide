@@ -1,0 +1,3507 @@
+{
+  "meta": {
+    "title_en": "Habiba's English Guide",
+    "subtitle_en": "Grade 12 · Final Preparation",
+    "author_line_en": "Made by Habiba — English Literature & Translation student at SQU",
+    "author_line_ar": "إعداد حبيبة — طالبة أدب إنجليزي وترجمة في جامعة السلطان قابوس",
+    "aim_ar": "أهلاً بك! أنا حبيبة، وجمعت لك هنا كل ما تحتاجه لمراجعة إنجليزي الصف الثاني عشر في مكان واحد: مفردات كل محور مع أمثلة، وشرح مبسّط للقواعد، عبارات جاهزة تنفعك في الكتابة، ونماذج إجابات حقيقية من امتحانات سابقة. تدرّب على كل قسم من أقسام الورقة على حدة، ثم جرّب امتحاناً تجريبياً كاملاً يحاكي اليوم الحقيقي. هدفي بسيط: أن تصل إلى الامتحان وأنت واثق وجاهز. لنراجع معاً خطوة بخطوة، وكل خطوة تقرّبك أكثر.",
+    "aim_en": "One simple goal: get you to the exam feeling ready and confident. Every part of the paper has its own practice corner."
+  },
+  "skills": [
+    {
+      "id": "reading_tf",
+      "label_en": "Reading 1 · True / False",
+      "label_ar": "صح / خطأ",
+      "emoji": "✅",
+      "order": 1,
+      "desc_ar": "نصوص قصيرة وجمل تقرّر إذا كانت صح أو خطأ حسب النص."
+    },
+    {
+      "id": "reading_comp",
+      "label_en": "Reading 2 · Comprehension",
+      "label_ar": "مهارات التحليل",
+      "emoji": "📖",
+      "order": 2,
+      "desc_ar": "قصة أو مقالة ثم أسئلة إجابة قصيرة واختيار من متعدد."
+    },
+    {
+      "id": "vocabulary",
+      "label_en": "Vocabulary",
+      "label_ar": "المفردات",
+      "emoji": "💡",
+      "order": 3,
+      "desc_ar": "اختر الكلمة الصحيحة التي تكمّل الجملة."
+    },
+    {
+      "id": "grammar",
+      "label_en": "Grammar",
+      "label_ar": "القواعد",
+      "emoji": "🧩",
+      "order": 4,
+      "desc_ar": "حوارات وفراغات: الأفعال الناقصة، الكلام المنقول، used to وغيرها."
+    },
+    {
+      "id": "cloze",
+      "label_en": "Grammar / Vocabulary Cloze",
+      "label_ar": "نص بفراغات",
+      "emoji": "🧠",
+      "order": 5,
+      "desc_ar": "فقرة كاملة فيها فراغات، تختار الأنسب لكل فراغ."
+    },
+    {
+      "id": "writing",
+      "label_en": "Writing",
+      "label_ar": "الكتابة",
+      "emoji": "✍️",
+      "order": 6,
+      "desc_ar": "نماذج جاهزة + قائمة مراجعة تضمن أنك ما تنسى شي."
+    }
+  ],
+  "themes": [
+    {
+      "id": "t1",
+      "name_en": "News & the Media",
+      "name_ar": "الأخبار والإعلام",
+      "emoji": "📰",
+      "color": "#DD5E47",
+      "blurb_ar": "عن الصحافة، المشاهير، الخصوصية، وأخلاقيات الإعلام. ركّز على الكلام المنقول وصفات ed/ing.",
+      "vocab": [
+        {
+          "en": "broadcast",
+          "ar": "يُبَثّ / بث",
+          "emoji": "📡",
+          "ex": "The match was broadcast live on TV."
+        },
+        {
+          "en": "headlines",
+          "ar": "عناوين رئيسية",
+          "emoji": "📰",
+          "ex": "The headlines were about the storm."
+        },
+        {
+          "en": "journalism",
+          "ar": "الصحافة",
+          "emoji": "📝"
+        },
+        {
+          "en": "media",
+          "ar": "وسائل الإعلام",
+          "emoji": "📺"
+        },
+        {
+          "en": "the Press",
+          "ar": "الصحافة",
+          "emoji": "🗞️"
+        },
+        {
+          "en": "celebrities",
+          "ar": "مشاهير",
+          "emoji": "⭐"
+        },
+        {
+          "en": "paparazzi",
+          "ar": "مصوّرو المشاهير",
+          "emoji": "📸"
+        },
+        {
+          "en": "privacy",
+          "ar": "خصوصية",
+          "emoji": "🔒",
+          "ex": "Celebrities have a right to privacy."
+        },
+        {
+          "en": "intrusive",
+          "ar": "متطفّل / مزعج",
+          "emoji": "😠"
+        },
+        {
+          "en": "ethics",
+          "ar": "أخلاقيات",
+          "emoji": "⚖️"
+        },
+        {
+          "en": "source",
+          "ar": "مصدر",
+          "emoji": "🔍"
+        },
+        {
+          "en": "interview",
+          "ar": "مقابلة",
+          "emoji": "🎤"
+        },
+        {
+          "en": "documentary",
+          "ar": "فيلم وثائقي",
+          "emoji": "🎥"
+        },
+        {
+          "en": "crew",
+          "ar": "طاقم",
+          "emoji": "👷"
+        },
+        {
+          "en": "credits",
+          "ar": "أسماء العاملين",
+          "emoji": "🎬"
+        },
+        {
+          "en": "capture",
+          "ar": "يلتقط / يأسر",
+          "emoji": "📷"
+        },
+        {
+          "en": "interrupt",
+          "ar": "يقاطع",
+          "emoji": "✋",
+          "ex": "Sorry to interrupt you."
+        },
+        {
+          "en": "rally",
+          "ar": "تجمّع / مسيرة",
+          "emoji": "🧭"
+        },
+        {
+          "en": "captain",
+          "ar": "ربّان / قبطان",
+          "emoji": "🧑‍✈️"
+        },
+        {
+          "en": "vessel",
+          "ar": "سفينة / مركب",
+          "emoji": "🚢"
+        },
+        {
+          "en": "voyage",
+          "ar": "رحلة بحرية",
+          "emoji": "⛵"
+        },
+        {
+          "en": "set sail",
+          "ar": "يُبحر",
+          "emoji": "⚓",
+          "ex": "They set sail at dawn."
+        },
+        {
+          "en": "expedition",
+          "ar": "رحلة استكشافية",
+          "emoji": "🧭"
+        },
+        {
+          "en": "iceberg",
+          "ar": "جبل جليدي",
+          "emoji": "🧊"
+        },
+        {
+          "en": "sink",
+          "ar": "يغرق",
+          "emoji": "🌊"
+        },
+        {
+          "en": "drowned",
+          "ar": "غرِق",
+          "emoji": "🌊"
+        },
+        {
+          "en": "rescued",
+          "ar": "أُنقِذ",
+          "emoji": "🛟"
+        },
+        {
+          "en": "lifeboats",
+          "ar": "قوارب النجاة",
+          "emoji": "🛶"
+        },
+        {
+          "en": "survivors",
+          "ar": "ناجون",
+          "emoji": "🙏"
+        },
+        {
+          "en": "remote",
+          "ar": "ناءٍ / بعيد",
+          "emoji": "🏝️"
+        },
+        {
+          "en": "deadline",
+          "ar": "الموعد النهائي",
+          "emoji": "⏰",
+          "ex": "Reporters work to tight deadlines."
+        },
+        {
+          "en": "demanding",
+          "ar": "مُرهِق / يتطلّب جهداً",
+          "emoji": "😫"
+        },
+        {
+          "en": "freelance",
+          "ar": "يعمل لحسابه الخاص",
+          "emoji": "💻"
+        },
+        {
+          "en": "passion",
+          "ar": "شغف",
+          "emoji": "❤️"
+        },
+        {
+          "en": "curious",
+          "ar": "فضولي",
+          "emoji": "🤔"
+        },
+        {
+          "en": "creative",
+          "ar": "مبدع / خلّاق",
+          "emoji": "🎨"
+        },
+        {
+          "en": "powerful",
+          "ar": "قوي",
+          "emoji": "💪"
+        },
+        {
+          "en": "coherent",
+          "ar": "متماسك / مفهوم",
+          "emoji": "🧩"
+        },
+        {
+          "en": "furious",
+          "ar": "غاضب جداً (أقوى من angry)",
+          "emoji": "😡"
+        },
+        {
+          "en": "superb",
+          "ar": "رائع (أقوى من good)",
+          "emoji": "🌟"
+        },
+        {
+          "en": "tragic",
+          "ar": "مأساوي (أقوى من sad)",
+          "emoji": "😢"
+        },
+        {
+          "en": "astonished",
+          "ar": "مذهول (أقوى من surprised)",
+          "emoji": "😲"
+        },
+        {
+          "en": "terrified",
+          "ar": "مذعور (أقوى من afraid)",
+          "emoji": "😨"
+        },
+        {
+          "en": "bizarre",
+          "ar": "غريب / شاذّ",
+          "emoji": "👽"
+        },
+        {
+          "en": "fascinated",
+          "ar": "مفتون / منبهر",
+          "emoji": "✨"
+        }
+      ],
+      "grammar": [
+        {
+          "id": "t1g1",
+          "title_en": "Reported (Indirect) Speech",
+          "title_ar": "الكلام المنقول",
+          "intro_ar": "عندما ننقل كلام شخص آخر، نُرجِع الفعل خطوة إلى الوراء (backshift)، ونغيّر الضمائر وكلمات الزمن. في السؤال المنقول: لا توجد علامة استفهام، ويصبح الفعل خبرياً (الفاعل قبل الفعل).",
+          "points": [
+            {
+              "en": "am/is → was, are → were",
+              "ar": "الأفعال ترجع للماضي"
+            },
+            {
+              "en": "will → would, can → could",
+              "ar": "وكذلك الأفعال المساعدة"
+            },
+            {
+              "en": "tomorrow → the next day, now → then",
+              "ar": "كلمات الزمان تتغيّر"
+            },
+            {
+              "en": "Yes/No question → if / whether",
+              "ar": "للأسئلة التي جوابها نعم/لا"
+            },
+            {
+              "en": "Verbs: say, tell, ask, explain, suggest, promise",
+              "ar": "أفعال تستخدم لنقل الكلام"
+            }
+          ],
+          "examples": [
+            {
+              "en": "\"I like tennis.\" → He said (that) he liked tennis.",
+              "ar": "قال إنه يحب التنس"
+            },
+            {
+              "en": "\"Do you like tennis?\" → He asked me if I liked tennis.",
+              "ar": "سألني إن كنت أحب التنس"
+            },
+            {
+              "en": "\"Where do you live?\" → She asked where I lived.",
+              "ar": "سألتني أين أعيش"
+            },
+            {
+              "en": "\"I will call you tomorrow.\" → He said he would call me the next day.",
+              "ar": "قال إنه سيتصل بي اليوم التالي"
+            }
+          ]
+        },
+        {
+          "id": "t1g2",
+          "title_en": "Adjectives: -ed vs -ing",
+          "title_ar": "صفات ed و ing",
+          "intro_ar": "الفرق بسيط: -ed توصف شعور الشخص، و -ing توصف الشيء أو الموقف الذي سبّب الشعور.",
+          "points": [
+            {
+              "en": "-ed = how a person feels",
+              "ar": "لوصف مشاعر الشخص"
+            },
+            {
+              "en": "-ing = the thing causing the feeling",
+              "ar": "لوصف الشيء/الموقف"
+            }
+          ],
+          "examples": [
+            {
+              "en": "I was bored. / The movie was boring.",
+              "ar": "أنا مللت / الفيلم ممل"
+            },
+            {
+              "en": "I was confused. / The instructions were confusing.",
+              "ar": "كنت مرتبكاً / التعليمات مربكة"
+            },
+            {
+              "en": "amazed / amazing, exhausted / exhausting",
+              "ar": "منبهر/مبهر، منهَك/مُرهِق"
+            }
+          ]
+        },
+        {
+          "id": "t1g3",
+          "title_en": "Strong (extreme) adjectives",
+          "title_ar": "الصفات القوية",
+          "intro_ar": "بدل ما تقول very + صفة عادية، في صفة وحدة قوية تعطي نفس المعنى. مفيدة جداً في العناوين والكتابة.",
+          "points": [
+            {
+              "en": "very angry = furious",
+              "ar": "غاضب جداً"
+            },
+            {
+              "en": "very good = superb / excellent",
+              "ar": "ممتاز / رائع"
+            },
+            {
+              "en": "very sad = tragic",
+              "ar": "مأساوي"
+            },
+            {
+              "en": "very surprised = astonished",
+              "ar": "مذهول"
+            }
+          ],
+          "examples": [
+            {
+              "en": "The fans were furious about the result.",
+              "ar": "المشجعون كانوا غاضبين جداً"
+            },
+            {
+              "en": "It was a tragic accident.",
+              "ar": "كان حادثاً مأساوياً"
+            }
+          ]
+        }
+      ],
+      "functional": [
+        {
+          "label_en": "Interrupting / Allowing / Blocking",
+          "label_ar": "المقاطعة والسماح والرفض",
+          "note_ar": "عبارات جاهزة تستخدمها في الحوار: تقاطع، أو تسمح، أو تطلب أن تكمّل كلامك.",
+          "phrases": [
+            {
+              "en": "Sorry to interrupt you, but…",
+              "ar": "عذراً على المقاطعة، لكن…"
+            },
+            {
+              "en": "Sorry to jump in, but…",
+              "ar": "عذراً لأنّي قاطعت، لكن…"
+            },
+            {
+              "en": "Can I interrupt you for a second?",
+              "ar": "ممكن أقاطعك لحظة؟"
+            },
+            {
+              "en": "No problem. / Yes, all right. / Go ahead.",
+              "ar": "لا مشكلة / تفضّل"
+            },
+            {
+              "en": "If I could just finish…",
+              "ar": "لو تسمح دعني أكمّل…"
+            },
+            {
+              "en": "Hold on! Let me finish, please.",
+              "ar": "لحظة! دعني أنهي كلامي."
+            }
+          ]
+        }
+      ],
+      "writing": [
+        {
+          "type": "informative",
+          "title_en": "A Real News Event",
+          "prompt_ar": "اكتب/ي خبراً إعلامياً عن حدث حقيقي أو متخيّل وقع في منطقتك مؤخراً.",
+          "model_en": "Local Students Organize Successful Beach Clean-Up\n\nOn Saturday, March 15th, over fifty students from our school organized a beach clean-up at the beach near Al Jubail Park in Sohar. The event began at 8 a.m. and continued until midday. The students collected more than 100 bags of plastic waste, old fishing nets, and other rubbish that had accumulated on the shore.\n\nThe idea was started by a group of Grade 12 students who were concerned about the damage to marine life caused by plastic pollution. Local businesses supported the event by providing gloves and bags. The Royal Oman Police also helped by ensuring the students' safety near the water.\n\nThis event is newsworthy because it shows how young people can take responsibility for their environment. The students hope to make this a monthly activity.",
+          "tips_ar": [
+            "العنوان يكون قصير وواضح (غالباً بالمضارع).",
+            "ابدأ بـ What/Who/Where/When في أول فقرة.",
+            "استخدم الماضي لأن الحدث صار.",
+            "ختاماً: ليش هذا الخبر مهم؟"
+          ],
+          "checklist": [
+            "عنوان جذّاب",
+            "3 فقرات على الأقل",
+            "أجبت عن من/ما/أين/متى",
+            "زمن الماضي صحيح",
+            "جملة ختامية"
+          ]
+        },
+        {
+          "type": "interactive",
+          "title_en": "A Letter to the Editor",
+          "prompt_ar": "قرأت مقالاً عن تصرّفات الباباراتزي مع المشاهير. اكتب رسالة للمحرّر تعبّر عن رأيك.",
+          "model_en": "Dear Sir/Madam,\n\nI am writing in response to your recent article about paparazzi photographers and their treatment of celebrities.\n\nIn my view, the behavior of some paparazzi is completely unacceptable. As far as I'm concerned, celebrities have the same right to privacy as ordinary citizens. They should be able to go shopping, eat at restaurants, or spend time with their families without being followed and photographed constantly.\n\nHowever, I also believe that celebrities benefit from media attention for their work. Without journalists and photographers, the public would not know about their projects. The way I see it, there should be clear rules about when and where photography is allowed.\n\nI strongly believe that respect for privacy should always come first.\n\nYours faithfully,\nSultan",
+          "tips_ar": [
+            "ابدأ بـ Dear Sir/Madam واختم بـ Yours faithfully.",
+            "وضّح رأيك بعبارات: In my view / As far as I'm concerned.",
+            "اعرض الرأي المعاكس بـ However ثم ردّ عليه.",
+            "جملة ختامية قوية تلخّص موقفك."
+          ],
+          "checklist": [
+            "تحية رسمية",
+            "رأيك واضح",
+            "عبارات إبداء الرأي",
+            "رأي معاكس + رد",
+            "ختام رسمي"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "t2",
+      "name_en": "Work & Careers",
+      "name_ar": "العمل والمهن",
+      "emoji": "💼",
+      "color": "#D9952C",
+      "blurb_ar": "عن الوظائف، المقابلات، والمؤهلات. ركّز على الأفعال الناقصة وقواعد اللواحق.",
+      "vocab": [
+        {
+          "en": "career",
+          "ar": "مسار مهني",
+          "emoji": "💼",
+          "ex": "She is building a career in medicine."
+        },
+        {
+          "en": "candidate",
+          "ar": "مرشّح (لوظيفة)",
+          "emoji": "🧢"
+        },
+        {
+          "en": "applicant",
+          "ar": "متقدّم للوظيفة",
+          "emoji": "📄"
+        },
+        {
+          "en": "application form",
+          "ar": "استمارة التقديم",
+          "emoji": "📝"
+        },
+        {
+          "en": "CV",
+          "ar": "السيرة الذاتية",
+          "emoji": "📃"
+        },
+        {
+          "en": "covering letter",
+          "ar": "رسالة تعريفية",
+          "emoji": "✉️"
+        },
+        {
+          "en": "interview",
+          "ar": "مقابلة (عمل)",
+          "emoji": "🤝"
+        },
+        {
+          "en": "qualifications",
+          "ar": "مؤهلات",
+          "emoji": "🎓"
+        },
+        {
+          "en": "requirements",
+          "ar": "متطلّبات",
+          "emoji": "📋"
+        },
+        {
+          "en": "criteria",
+          "ar": "معايير",
+          "emoji": "✅"
+        },
+        {
+          "en": "experience",
+          "ar": "خبرة",
+          "emoji": "🧠"
+        },
+        {
+          "en": "recruit",
+          "ar": "يوظّف",
+          "emoji": "🧑‍💼"
+        },
+        {
+          "en": "referee",
+          "ar": "مُزكٍّ (يكتب توصية)",
+          "emoji": "🪪"
+        },
+        {
+          "en": "communication skills",
+          "ar": "مهارات التواصل",
+          "emoji": "🗣️"
+        },
+        {
+          "en": "self-confidence",
+          "ar": "الثقة بالنفس",
+          "emoji": "💪"
+        },
+        {
+          "en": "articulate",
+          "ar": "فصيح / يعبّر بوضوح",
+          "emoji": "🗨️"
+        },
+        {
+          "en": "efficient",
+          "ar": "كفؤ / فعّال",
+          "emoji": "⚡"
+        },
+        {
+          "en": "flexibility",
+          "ar": "مرونة",
+          "emoji": "🤸"
+        },
+        {
+          "en": "enterprising",
+          "ar": "مبادِر / مغامر",
+          "emoji": "🚀"
+        },
+        {
+          "en": "courageous",
+          "ar": "شجاع",
+          "emoji": "🦁"
+        },
+        {
+          "en": "imaginative",
+          "ar": "صاحب خيال",
+          "emoji": "🌈"
+        },
+        {
+          "en": "investigative",
+          "ar": "بحثي / تحقيقي",
+          "emoji": "🔎"
+        },
+        {
+          "en": "sociable",
+          "ar": "اجتماعي / مؤانِس",
+          "emoji": "🤗"
+        },
+        {
+          "en": "polite",
+          "ar": "مؤدّب",
+          "emoji": "🙌"
+        },
+        {
+          "en": "talented",
+          "ar": "موهوب",
+          "emoji": "🌟"
+        },
+        {
+          "en": "desirable",
+          "ar": "مرغوب فيه",
+          "emoji": "👍"
+        },
+        {
+          "en": "essential",
+          "ar": "أساسي / ضروري",
+          "emoji": "❗",
+          "ex": "A degree is essential for this job."
+        },
+        {
+          "en": "challenging",
+          "ar": "صعب / يتطلّب جهداً",
+          "emoji": "⛰️"
+        },
+        {
+          "en": "stressful",
+          "ar": "مُجهِد / متعب",
+          "emoji": "😫"
+        },
+        {
+          "en": "repetitive",
+          "ar": "متكرّر",
+          "emoji": "🔁"
+        },
+        {
+          "en": "satisfying",
+          "ar": "مُرضٍ",
+          "emoji": "😊"
+        },
+        {
+          "en": "rewarding",
+          "ar": "مُجزٍ",
+          "emoji": "🎁"
+        },
+        {
+          "en": "convince / persuade",
+          "ar": "يُقنِع",
+          "emoji": "🤝",
+          "ex": "She persuaded him to apply."
+        },
+        {
+          "en": "urge",
+          "ar": "يحُثّ / يحضّ",
+          "emoji": "📣"
+        },
+        {
+          "en": "promote",
+          "ar": "يُرقّي / يروّج",
+          "emoji": "📈"
+        },
+        {
+          "en": "budget",
+          "ar": "ميزانية",
+          "emoji": "💰"
+        },
+        {
+          "en": "headquarters",
+          "ar": "المقر الرئيسي",
+          "emoji": "🏢"
+        },
+        {
+          "en": "training course",
+          "ar": "دورة تدريبية",
+          "emoji": "📚"
+        },
+        {
+          "en": "suffix",
+          "ar": "لاحقة (في اللغة)",
+          "emoji": "🧩"
+        },
+        {
+          "en": "enclose",
+          "ar": "يُرفِق",
+          "emoji": "📎",
+          "ex": "I enclose my CV with this letter."
+        }
+      ],
+      "grammar": [
+        {
+          "id": "t2g1",
+          "title_en": "Modals: obligation, necessity & advice",
+          "title_ar": "الأفعال الناقصة",
+          "intro_ar": "كل modal له وظيفة: واجب قوي، نصيحة، ضرورة، أو منع. انتبه للفرق بين mustn't (ممنوع) و needn't (غير ضروري).",
+          "points": [
+            {
+              "en": "must / have to = strong obligation",
+              "ar": "واجب قوي"
+            },
+            {
+              "en": "should / ought to = advice",
+              "ar": "نصيحة / الأفضل"
+            },
+            {
+              "en": "need to = necessity",
+              "ar": "ضرورة"
+            },
+            {
+              "en": "needn't = no need",
+              "ar": "لا داعي"
+            },
+            {
+              "en": "mustn't / shouldn't = prohibition",
+              "ar": "ممنوع / لا ينبغي"
+            }
+          ],
+          "examples": [
+            {
+              "en": "You must arrive on time.",
+              "ar": "يجب أن تصل في الوقت"
+            },
+            {
+              "en": "You should study more.",
+              "ar": "من الأفضل أن تدرس أكثر"
+            },
+            {
+              "en": "You needn't worry.",
+              "ar": "لا داعي للقلق"
+            },
+            {
+              "en": "You mustn't smoke here.",
+              "ar": "ممنوع التدخين هنا"
+            }
+          ]
+        },
+        {
+          "id": "t2g2",
+          "title_en": "Word formation & suffixes",
+          "title_ar": "تكوين الكلمات واللواحق",
+          "intro_ar": "اللاحقة تغيّر نوع الكلمة. انتبه: الكلمات التي تنتهي بـ -y تتحوّل لـ -i قبل اللاحقة.",
+          "points": [
+            {
+              "en": "Jobs: -er, -or, -ist, -ian, -ant",
+              "ar": "teacher, actor, artist, musician, accountant"
+            },
+            {
+              "en": "Nouns: -ment, -ion, -ing, -ship",
+              "ar": "agreement, connection, training, leadership"
+            },
+            {
+              "en": "Adjectives: -ful, -less",
+              "ar": "careful, careless, hopeful, hopeless"
+            },
+            {
+              "en": "Spelling: -y → -i",
+              "ar": "beauty → beautiful, plenty → plentiful"
+            }
+          ],
+          "examples": [
+            {
+              "en": "care → careful / careless",
+              "ar": "حذر / مهمل"
+            },
+            {
+              "en": "music → musician",
+              "ar": "موسيقي / عازف"
+            },
+            {
+              "en": "hope → hopeless",
+              "ar": "يائس / بلا أمل"
+            }
+          ]
+        },
+        {
+          "id": "t2g3",
+          "title_en": "Gerund vs Infinitive",
+          "title_ar": "المصدر والـ ing",
+          "intro_ar": "بعض الأفعال بعدها to + فعل، وبعضها بعدها ing، وبعضها يقبل الاثنين.",
+          "points": [
+            {
+              "en": "Infinitive only: decide, promise, plan, hope",
+              "ar": "decide to go"
+            },
+            {
+              "en": "Gerund only: enjoy, avoid, practise, suggest, consider",
+              "ar": "enjoy reading"
+            },
+            {
+              "en": "Both: start, begin, like, continue, stop, try",
+              "ar": "start reading / to read"
+            }
+          ],
+          "examples": [
+            {
+              "en": "I decided to go.",
+              "ar": "قرّرت أن أذهب"
+            },
+            {
+              "en": "I enjoy reading.",
+              "ar": "أستمتع بالقراءة"
+            },
+            {
+              "en": "I started reading / to read.",
+              "ar": "بدأت أقرأ"
+            }
+          ]
+        }
+      ],
+      "functional": [
+        {
+          "label_en": "Persuading, convincing & urging",
+          "label_ar": "الإقناع والتحفيز",
+          "note_ar": "عبارات تجعل الطرف الآخر يقتنع برأيك أو يفعل شيئاً.",
+          "phrases": [
+            {
+              "en": "Can't you…?",
+              "ar": "ألا يمكنك؟"
+            },
+            {
+              "en": "Wouldn't that be a good thing?",
+              "ar": "أليس ذلك أفضل؟"
+            },
+            {
+              "en": "Don't you think…?",
+              "ar": "ألا تعتقد…؟"
+            },
+            {
+              "en": "Surely that's the best way…",
+              "ar": "بالتأكيد هذه أفضل طريقة…"
+            },
+            {
+              "en": "If you don't do that…",
+              "ar": "إذا ما سويت ذلك…"
+            }
+          ]
+        },
+        {
+          "label_en": "Job interview language",
+          "label_ar": "لغة المقابلة",
+          "note_ar": "عبارات توصف المتطلّبات: الأساسي، المفضّل، وما تحتاجه مستقبلاً.",
+          "phrases": [
+            {
+              "en": "You must have… (essential)",
+              "ar": "لازم تملك…"
+            },
+            {
+              "en": "You should have… (desirable)",
+              "ar": "من الأفضل أن تملك…"
+            },
+            {
+              "en": "You'll need to… (future need)",
+              "ar": "ستحتاج إلى…"
+            }
+          ]
+        }
+      ],
+      "writing": [
+        {
+          "type": "informative",
+          "title_en": "A Job Profile",
+          "prompt_ar": "اكتب نصاً إعلامياً يصف مهنة تهمّك.",
+          "model_en": "A Career as a Marine Biologist in Oman\n\nMarine biology is a fascinating career that involves studying plants and animals living in the ocean. Marine biologists research different species, monitor their populations, and work to protect them from threats like pollution and overfishing.\n\nTo be successful in this career, a person should have an investigative personality type. They need to be curious, patient, and good at solving problems. Excellent communication skills are also essential because marine biologists often need to write reports and educate the public.\n\nRegarding qualifications, a university degree in marine biology or a related science is essential. For more advanced positions, a master's degree or PhD is usually required. Practical experience, such as volunteering with organizations like the Environment Society of Oman, is also very desirable.\n\nThis career is ideal for someone who loves the ocean and wants to contribute to protecting Oman's rich marine environment for future generations.",
+          "tips_ar": [
+            "عرّف المهنة ووش تسوّي فيها.",
+            "اذكر الصفات الشخصية المطلوبة.",
+            "اذكر المؤهلات والخبرة.",
+            "ختاماً: لمين تناسب هذه المهنة؟"
+          ],
+          "checklist": [
+            "مقدمة تعرّف المهنة",
+            "الصفات الشخصية",
+            "المؤهلات",
+            "خاتمة"
+          ]
+        },
+        {
+          "type": "interactive",
+          "title_en": "A Job Application Covering Letter",
+          "prompt_ar": "تقدّم لوظيفة معلنة (مثل باحث تلفزيوني). اكتب رسالة تعريفية ترفقها مع سيرتك الذاتية.",
+          "model_en": "Dear Sir/Madam,\n\nI am writing to apply for the position of TV Researcher which was advertised in the Oman Daily on 10th April.\n\nI am currently a Grade 12 student at Suhar Secondary School and will graduate this June. I have always been fascinated by television production and I regularly watch documentaries about Omani history and culture. I am a curious and creative person with excellent computer skills. I am also a good team player, which I believe is essential for working in a media environment.\n\nAs my CV shows, I have experience using video editing software and I helped produce a short film for a school project last year. I am a hardworking and reliable person who is ready to learn new skills.\n\nI would welcome the opportunity to attend an interview at your convenience. I have attached my CV for your consideration.\n\nYours faithfully,\nAli Saif",
+          "tips_ar": [
+            "اذكر الوظيفة ووين شفت الإعلان.",
+            "عرّف بنفسك وليش أنت مناسب.",
+            "اذكر خبرتك ومهاراتك.",
+            "اختم بطلب مقابلة + Yours faithfully."
+          ],
+          "checklist": [
+            "تحية رسمية",
+            "ذكرت الوظيفة",
+            "مهارات + خبرة",
+            "طلب مقابلة",
+            "ختام رسمي"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "t3",
+      "name_en": "Health & Safety",
+      "name_ar": "الصحة والسلامة",
+      "emoji": "🏥",
+      "color": "#4E9D6B",
+      "blurb_ar": "عن أسلوب الحياة الصحي، الكوارث الطبيعية، والسلامة. ركّز على الفرق بين الحقيقة والرأي وحروف الجر.",
+      "vocab": [
+        {
+          "en": "sedentary",
+          "ar": "خامل / قليل الحركة",
+          "emoji": "🛋️",
+          "ex": "A sedentary lifestyle is bad for health."
+        },
+        {
+          "en": "obesity",
+          "ar": "السمنة",
+          "emoji": "⚖️"
+        },
+        {
+          "en": "diet",
+          "ar": "نظام غذائي",
+          "emoji": "🥗"
+        },
+        {
+          "en": "nutrients",
+          "ar": "عناصر مغذّية",
+          "emoji": "🥦"
+        },
+        {
+          "en": "processed food",
+          "ar": "طعام مُصنّع",
+          "emoji": "🍟"
+        },
+        {
+          "en": "appetite",
+          "ar": "شهية",
+          "emoji": "😋"
+        },
+        {
+          "en": "habit",
+          "ar": "عادة",
+          "emoji": "🔄"
+        },
+        {
+          "en": "regular exercise",
+          "ar": "تمارين منتظمة",
+          "emoji": "🏃"
+        },
+        {
+          "en": "workout",
+          "ar": "تمرين رياضي",
+          "emoji": "🏋️"
+        },
+        {
+          "en": "strengthen muscles",
+          "ar": "يقوّي العضلات",
+          "emoji": "💪"
+        },
+        {
+          "en": "posture",
+          "ar": "وضعية الجسم",
+          "emoji": "🧍"
+        },
+        {
+          "en": "beneficial",
+          "ar": "مفيد",
+          "emoji": "✅"
+        },
+        {
+          "en": "vital",
+          "ar": "حيوي / ضروري جداً",
+          "emoji": "❤️"
+        },
+        {
+          "en": "depressed",
+          "ar": "مكتئب",
+          "emoji": "😔"
+        },
+        {
+          "en": "diabetes",
+          "ar": "السكري",
+          "emoji": "🩸"
+        },
+        {
+          "en": "heart disease",
+          "ar": "أمراض القلب",
+          "emoji": "❤️"
+        },
+        {
+          "en": "prone to",
+          "ar": "عُرضة لـ",
+          "emoji": "⚠️"
+        },
+        {
+          "en": "prevent",
+          "ar": "يمنع",
+          "emoji": "🚫"
+        },
+        {
+          "en": "hazards",
+          "ar": "مخاطر",
+          "emoji": "⚠️"
+        },
+        {
+          "en": "risk",
+          "ar": "خطر / مخاطرة",
+          "emoji": "🎲"
+        },
+        {
+          "en": "dangerous",
+          "ar": "خطير",
+          "emoji": "☠️"
+        },
+        {
+          "en": "emergency aid",
+          "ar": "إسعافات طارئة",
+          "emoji": "🚑"
+        },
+        {
+          "en": "rescue",
+          "ar": "إنقاذ",
+          "emoji": "🛟"
+        },
+        {
+          "en": "lifeguard",
+          "ar": "مُنقِذ (شاطئ)",
+          "emoji": "🏖️"
+        },
+        {
+          "en": "evacuate",
+          "ar": "يُخلي",
+          "emoji": "🏃‍♂️",
+          "ex": "Families had to evacuate their homes."
+        },
+        {
+          "en": "stranded",
+          "ar": "عالق",
+          "emoji": "🏝️"
+        },
+        {
+          "en": "natural disaster",
+          "ar": "كارثة طبيعية",
+          "emoji": "🌪️"
+        },
+        {
+          "en": "cyclone",
+          "ar": "إعصار استوائي",
+          "emoji": "🌀"
+        },
+        {
+          "en": "hurricane",
+          "ar": "إعصار",
+          "emoji": "🌪️"
+        },
+        {
+          "en": "flood",
+          "ar": "فيضان",
+          "emoji": "🌊"
+        },
+        {
+          "en": "flash floods",
+          "ar": "سيول مفاجئة",
+          "emoji": "🌊"
+        },
+        {
+          "en": "torrential rain",
+          "ar": "أمطار غزيرة",
+          "emoji": "🌧️"
+        },
+        {
+          "en": "drought",
+          "ar": "جفاف",
+          "emoji": "🏜️"
+        },
+        {
+          "en": "famine",
+          "ar": "مجاعة",
+          "emoji": "🍛"
+        },
+        {
+          "en": "earthquake",
+          "ar": "زلزال",
+          "emoji": "🌍"
+        },
+        {
+          "en": "avalanche",
+          "ar": "انهيار جليدي",
+          "emoji": "🏔️"
+        },
+        {
+          "en": "volcanic eruption",
+          "ar": "ثوران بركاني",
+          "emoji": "🌋"
+        },
+        {
+          "en": "tsunami",
+          "ar": "تسونامي",
+          "emoji": "🌊"
+        },
+        {
+          "en": "devastation",
+          "ar": "دمار",
+          "emoji": "💥"
+        },
+        {
+          "en": "restored",
+          "ar": "أُعيد (للحالة الطبيعية)",
+          "emoji": "🔧",
+          "ex": "Services were restored within a month."
+        },
+        {
+          "en": "fact",
+          "ar": "حقيقة",
+          "emoji": "📌"
+        },
+        {
+          "en": "opinion",
+          "ar": "رأي",
+          "emoji": "💭"
+        }
+      ],
+      "grammar": [
+        {
+          "id": "t3g1",
+          "title_en": "Verb + Preposition collocations",
+          "title_ar": "الفعل + حرف الجر",
+          "intro_ar": "بعض الأفعال والصفات ترتبط بحرف جر ثابت يجب حفظه معها. ويأتي بعد حرف الجر دائماً فعل + ing.",
+          "points": [
+            {
+              "en": "good at, interested in, afraid of",
+              "ar": "جيد في، مهتم ب، خائف من"
+            },
+            {
+              "en": "responsible for, decide on",
+              "ar": "مسؤول عن، يقرر بشأن"
+            },
+            {
+              "en": "look forward to + ing",
+              "ar": "يتطلّع إلى"
+            }
+          ],
+          "examples": [
+            {
+              "en": "She is good at swimming.",
+              "ar": "بارعة في السباحة"
+            },
+            {
+              "en": "I am afraid of snakes.",
+              "ar": "خائف من الثعابين"
+            },
+            {
+              "en": "We look forward to meeting you.",
+              "ar": "نتطلّع للقائك"
+            }
+          ]
+        },
+        {
+          "id": "t3g2",
+          "title_en": "Fact vs Opinion language",
+          "title_ar": "لغة الحقيقة والرأي",
+          "intro_ar": "الحقيقة شيء يمكن إثباته، والرأي وجهة نظر. الأفعال think/feel/believe تدل على رأي.",
+          "points": [
+            {
+              "en": "Fact = can be proven",
+              "ar": "حقيقة = تثبت"
+            },
+            {
+              "en": "Opinion = think / feel / believe",
+              "ar": "رأي = أعتقد / أشعر"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Fact: Exercise reduces stress.",
+              "ar": "حقيقة: التمارين تقلّل التوتر"
+            },
+            {
+              "en": "Opinion: I think exercise is fun.",
+              "ar": "رأي: أعتقد التمارين ممتعة"
+            }
+          ]
+        },
+        {
+          "id": "t3g3",
+          "title_en": "Evaluative essay structure",
+          "title_ar": "بناء المقالة التقييمية",
+          "intro_ar": "مقدمة ← حجج مع أمثلة ← خاتمة. استخدم جملة مفتاحية لكل فقرة + روابط.",
+          "points": [
+            {
+              "en": "Use topic sentences",
+              "ar": "جملة مفتاحية لكل فقرة"
+            },
+            {
+              "en": "Cohesive devices: firstly, in addition, as a result, however, finally",
+              "ar": "روابط تربط الأفكار"
+            }
+          ],
+          "examples": [
+            {
+              "en": "Firstly… In addition… However… Finally…",
+              "ar": "أولاً… إضافة… لكن… أخيراً…"
+            }
+          ]
+        }
+      ],
+      "functional": [
+        {
+          "label_en": "Expressing personal viewpoints",
+          "label_ar": "إبداء الرأي",
+          "note_ar": "بدايات جمل تجعل رأيك يظهر واضحاً وقوياً.",
+          "phrases": [
+            {
+              "en": "I think that… / In my view…",
+              "ar": "أعتقد أن… / في رأيي…"
+            },
+            {
+              "en": "I believe that…",
+              "ar": "أؤمن بأن…"
+            },
+            {
+              "en": "As far as I'm concerned…",
+              "ar": "بالنسبة لي…"
+            },
+            {
+              "en": "Without a doubt…",
+              "ar": "بلا شك…"
+            },
+            {
+              "en": "Personally speaking…",
+              "ar": "على الصعيد الشخصي…"
+            }
+          ]
+        }
+      ],
+      "writing": [
+        {
+          "type": "informative",
+          "title_en": "A Natural Disaster",
+          "prompt_ar": "اختر كارثة طبيعية واكتب عنها نصاً إعلامياً.",
+          "model_en": "Cyclone Gonu was the strongest tropical cyclone on record to hit the Arabian Peninsula. It struck the coast of Oman on 5th June 2007, bringing enormous waves, heavy rain, and winds of up to 260 kilometers per hour.\n\nThe cyclone caused widespread destruction, particularly in the coastal regions of Muscat and Sur. Entire neighborhoods were flooded, roads were damaged, and thousands of people had to evacuate their homes. Tragically, over 70 people lost their lives, and the economic damage was estimated at nearly OMR 1.5 billion.\n\nThe Omani government responded quickly by providing emergency aid, including food, water, and shelter. The Royal Oman Police and the armed forces played a crucial role in rescue operations. The public also showed great community spirit, with volunteers helping to clean up and support affected families. Most essential services were restored within a month, demonstrating Oman's ability to recover from such disasters.",
+          "tips_ar": [
+            "عرّف الكارثة: وين ومتى وكم كانت قوية.",
+            "اذكر الأضرار بأرقام إن أمكن.",
+            "اذكر الاستجابة والتعافي.",
+            "استخدم الماضي والمبني للمجهول (were flooded)."
+          ],
+          "checklist": [
+            "عرّفت الكارثة",
+            "ذكرت الأضرار",
+            "ذكرت الاستجابة",
+            "زمن الماضي صحيح"
+          ]
+        },
+        {
+          "type": "interactive",
+          "title_en": "A Persuasive Letter (healthy lifestyle)",
+          "prompt_ar": "قريبك الصغير يقضي وقته داخلاً ويأكل أكل غير صحي. اكتب رسالة تقنعه بأسلوب حياة أصح.",
+          "model_en": "My dearest cousin Khalid,\n\nI hope you are doing well. I'm writing this letter because I'm a little worried about you. Your mother told me that you spend most of your free time playing computer games and eating snacks.\n\nAs far as I'm concerned, spending too much time indoors is not good for your health. I really think that you should try to be more active. Why don't you come and play football with me and my friends on Friday at the beach? It's great fun and a brilliant way to get exercise without even noticing it!\n\nI also heard that you've been eating a lot of fast food. Personally speaking, I know it tastes good, but it's not healthy if you eat it every day. It contains too much fat and salt. I honestly believe that you would have more energy and feel much better if you ate more fresh fruit and vegetables.\n\nI'm not trying to tell you what to do, Khalid. I just care about you and want you to be healthy and happy. Please think about it.\n\nLots of love,\nYour cousin,\nFatma",
+          "tips_ar": [
+            "تحية ودّية (رسالة غير رسمية).",
+            "عبّر عن قلقك بلطف.",
+            "استخدم عبارات الإقناع: Why don't you…? You should…",
+            "اختم بلمسة حنونة (Lots of love)."
+          ],
+          "checklist": [
+            "تحية ودّية",
+            "عبّرت عن القلق",
+            "عبارات إقناع",
+            "اقتراح عملي",
+            "ختام دافئ"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "t4",
+      "name_en": "Citizenship",
+      "name_ar": "المواطنة",
+      "emoji": "🇴🇲",
+      "color": "#3E7CA8",
+      "blurb_ar": "عن المواطنة، التطوّع، والقيم. ركّز على used to وتراكيب الأفعال مع الأسماء.",
+      "vocab": [
+        {
+          "en": "citizen",
+          "ar": "مواطن",
+          "emoji": "🧍"
+        },
+        {
+          "en": "citizenship",
+          "ar": "المواطنة",
+          "emoji": "🇴🇲"
+        },
+        {
+          "en": "community",
+          "ar": "مجتمع محلي",
+          "emoji": "👥"
+        },
+        {
+          "en": "society",
+          "ar": "مجتمع",
+          "emoji": "🏘️"
+        },
+        {
+          "en": "values",
+          "ar": "قيم",
+          "emoji": "💎"
+        },
+        {
+          "en": "identity",
+          "ar": "هوية",
+          "emoji": "🪪"
+        },
+        {
+          "en": "responsibility",
+          "ar": "مسؤولية",
+          "emoji": "🤝"
+        },
+        {
+          "en": "responsible",
+          "ar": "مسؤول",
+          "emoji": "✅"
+        },
+        {
+          "en": "irresponsible",
+          "ar": "غير مسؤول",
+          "emoji": "❌"
+        },
+        {
+          "en": "contribution",
+          "ar": "إسهام / مساهمة",
+          "emoji": "🤲"
+        },
+        {
+          "en": "contribute",
+          "ar": "يساهم",
+          "emoji": "🤲"
+        },
+        {
+          "en": "volunteer",
+          "ar": "يتطوّع / متطوّع",
+          "emoji": "🙋"
+        },
+        {
+          "en": "charity",
+          "ar": "جمعية خيرية",
+          "emoji": "❤️"
+        },
+        {
+          "en": "NGO",
+          "ar": "منظمة غير حكومية",
+          "emoji": "🏛️",
+          "ex": "Dar al'Atta'a is an Omani NGO."
+        },
+        {
+          "en": "fundraise",
+          "ar": "يجمع التبرّعات",
+          "emoji": "💵"
+        },
+        {
+          "en": "donate",
+          "ar": "يتبرّع",
+          "emoji": "🎁",
+          "ex": "Students donated clothes to those in need."
+        },
+        {
+          "en": "distribute",
+          "ar": "يوزّع",
+          "emoji": "📦"
+        },
+        {
+          "en": "dedicate",
+          "ar": "يكرّس (وقته/حياته)",
+          "emoji": "⏳",
+          "ex": "She dedicated her life to teaching."
+        },
+        {
+          "en": "eradicate",
+          "ar": "يقضي على / يستأصل",
+          "emoji": "🚫",
+          "ex": "They aim to eradicate poverty."
+        },
+        {
+          "en": "inspire",
+          "ar": "يلهِم",
+          "emoji": "✨",
+          "ex": "Good leaders inspire people."
+        },
+        {
+          "en": "empowerment",
+          "ar": "تمكين",
+          "emoji": "💪"
+        },
+        {
+          "en": "awareness",
+          "ar": "وعي",
+          "emoji": "💡"
+        },
+        {
+          "en": "spread awareness",
+          "ar": "ينشر الوعي",
+          "emoji": "📢"
+        },
+        {
+          "en": "campaign",
+          "ar": "حملة",
+          "emoji": "📣"
+        },
+        {
+          "en": "preserve",
+          "ar": "يحافظ على",
+          "emoji": "🛡️"
+        },
+        {
+          "en": "protect",
+          "ar": "يحمي",
+          "emoji": "🛡️"
+        },
+        {
+          "en": "sustainable",
+          "ar": "مستدام",
+          "emoji": "♻️"
+        },
+        {
+          "en": "environment",
+          "ar": "بيئة",
+          "emoji": "🌿"
+        },
+        {
+          "en": "natural resources",
+          "ar": "موارد طبيعية",
+          "emoji": "⛰️"
+        },
+        {
+          "en": "endangered species",
+          "ar": "أنواع مهددة بالانقراض",
+          "emoji": "🐢"
+        },
+        {
+          "en": "human rights",
+          "ar": "حقوق الإنسان",
+          "emoji": "⚖️"
+        },
+        {
+          "en": "justice",
+          "ar": "عدالة",
+          "emoji": "⚖️"
+        },
+        {
+          "en": "law",
+          "ar": "قانون",
+          "emoji": "📜"
+        },
+        {
+          "en": "tolerance",
+          "ar": "تسامح",
+          "emoji": "🕊️"
+        },
+        {
+          "en": "respect",
+          "ar": "احترام / يحترم",
+          "emoji": "🙏"
+        },
+        {
+          "en": "generous",
+          "ar": "كريم",
+          "emoji": "🤲"
+        },
+        {
+          "en": "hospitable",
+          "ar": "مِضياف",
+          "emoji": "☕"
+        },
+        {
+          "en": "proud",
+          "ar": "فخور",
+          "emoji": "💯"
+        },
+        {
+          "en": "uphold",
+          "ar": "ينصُر / يدعم (القيم)",
+          "emoji": "🤜"
+        },
+        {
+          "en": "vote",
+          "ar": "يصوّت / تصويت",
+          "emoji": "🗳️"
+        }
+      ],
+      "grammar": [
+        {
+          "id": "t4g1",
+          "title_en": "Used to + infinitive",
+          "title_ar": "العادة في الماضي",
+          "intro_ar": "نستخدم used to للعادة أو الشيء الذي كان يحدث في الماضي ثم انتهى. انتبه: في النفي والسؤال تصبح use to (بدون d).",
+          "points": [
+            {
+              "en": "Affirmative: I used to…",
+              "ar": "كنت… (في الماضي)"
+            },
+            {
+              "en": "Negative: I didn't use to…",
+              "ar": "لم أكن…"
+            },
+            {
+              "en": "Question: Did you use to…?",
+              "ar": "هل كنت…؟"
+            }
+          ],
+          "examples": [
+            {
+              "en": "I used to live in Dubai.",
+              "ar": "كنت أعيش في دبي"
+            },
+            {
+              "en": "I didn't use to like coffee.",
+              "ar": "لم أكن أحب القهوة"
+            },
+            {
+              "en": "Did you use to play football?",
+              "ar": "هل كنت تلعب كرة القدم؟"
+            }
+          ]
+        },
+        {
+          "id": "t4g2",
+          "title_en": "Verb–Noun collocations",
+          "title_ar": "تراكيب الفعل + الاسم",
+          "intro_ar": "كلمات تجي مع بعض دائماً في سياق المواطنة. احفظها كوحدة وحدة.",
+          "points": [
+            {
+              "en": "dedicate your time / life",
+              "ar": "يكرّس وقته / حياته"
+            },
+            {
+              "en": "donate money / clothes",
+              "ar": "يتبرّع بالمال / الملابس"
+            },
+            {
+              "en": "eradicate poverty / hunger",
+              "ar": "يقضي على الفقر / الجوع"
+            },
+            {
+              "en": "inspire people",
+              "ar": "يلهِم الناس"
+            }
+          ],
+          "examples": [
+            {
+              "en": "We should dedicate our time to serving our community.",
+              "ar": "يجب أن نكرّس وقتنا لخدمة مجتمعنا"
+            },
+            {
+              "en": "The government is working to eradicate poverty.",
+              "ar": "الحكومة تعمل للقضاء على الفقر"
+            }
+          ]
+        },
+        {
+          "id": "t4g3",
+          "title_en": "Cohesion in writing",
+          "title_ar": "الترابط في الكتابة",
+          "intro_ar": "كي تصبح كتابتك مترابطة: كرّر الكلمات المفتاحية، استخدم ضمائر وروابط.",
+          "points": [
+            {
+              "en": "Pronouns: this, these, it, they",
+              "ar": "ضمائر تربط الجمل"
+            },
+            {
+              "en": "Linkers: moreover, in addition, however",
+              "ar": "روابط"
+            }
+          ],
+          "examples": [
+            {
+              "en": "…volunteering. Moreover, it builds character.",
+              "ar": "… التطوّع. علاوة على ذلك، يبني الشخصية"
+            }
+          ]
+        }
+      ],
+      "functional": [
+        {
+          "label_en": "Making statements (soundbites)",
+          "label_ar": "عبارات التصريح",
+          "note_ar": "جمل جاهزة تعبّر بها عن موقفك تجاه المواطنة والوطن.",
+          "phrases": [
+            {
+              "en": "To me, citizenship means…",
+              "ar": "بالنسبة لي، تعني المواطنة…"
+            },
+            {
+              "en": "I love Oman because…",
+              "ar": "أحب عمان لأن…"
+            },
+            {
+              "en": "I think it's my responsibility to…",
+              "ar": "أعتقد أن مسؤوليتي…"
+            },
+            {
+              "en": "I want to contribute by…",
+              "ar": "أرغب في المساهمة عبر…"
+            }
+          ]
+        }
+      ],
+      "writing": [
+        {
+          "type": "informative",
+          "title_en": "A Profile of a Model Citizen",
+          "prompt_ar": "اكتب نصاً إعلامياً عن شخص تعتبره مواطناً مثالياً.",
+          "model_en": "A model citizen in my community is my uncle, Rashid Al-Hashmi, who has been a primary school teacher for over twenty years. He works in a small village school in the mountains and has dedicated his life to educating children.\n\nEvery day, he travels an hour to reach the school because he believes that every child deserves a good education. He doesn't just teach lessons from textbooks; he also inspires his students to be proud of their country and to respect others. He often organizes weekend activities where children learn about Omani traditions and help clean up the village.\n\nIn addition to his teaching, Uncle Rashid volunteers with a local charity that provides school supplies to children from low-income families. He donates both his time and his money to help others.\n\nTo me, Uncle Rashid represents the best of Omani values: dedication, generosity, and a commitment to building a better community.",
+          "tips_ar": [
+            "عرّف الشخص وماذا يفعل.",
+            "اذكر أفعاله التي تجعله مثالياً.",
+            "استخدم تراكيب مثل dedicate / donate / inspire.",
+            "ختاماً: وش يمثّل هذا الشخص؟"
+          ],
+          "checklist": [
+            "عرّفت الشخص",
+            "أفعاله الإيجابية",
+            "تراكيب المواطنة",
+            "خاتمة تلخّص القيم"
+          ]
+        },
+        {
+          "type": "interactive",
+          "title_en": "An Email about Volunteering",
+          "prompt_ar": "قرّرت تتطوّع في إحدى الجمعيات العمانية (دار العطاء). اكتب إيميل لصديقك تخبره بقرارك.",
+          "model_en": "Hi Hamad,\n\nHope you're well! I wanted to tell you some exciting news. I've decided to volunteer for Dar al'Ata'a during the summer holidays!\n\nYou probably know that they help poor families all over Oman. They used to set up tents during Ramadan to distribute Iftar meals, but now they run many different programmes. They provide food, help with education costs, and support families who are struggling.\n\nI'm going to help with their food distribution programme. I feel it's my duty as an Omani citizen to give something back to my community. I really think that even small acts of kindness can make a big difference to someone's life.\n\nWould you be interested in joining me? It would be much more fun if we volunteered together. We could go to the orientation meeting next week. Let me know what you think!\n\nSpeak soon,\nYousuf",
+          "tips_ar": [
+            "تحية غير رسمية (Hi…).",
+            "اشرح قرارك وليش.",
+            "لاحظ استخدام used to للعادة القديمة.",
+            "ادعُ صديقك يشاركك + ختام ودّي."
+          ],
+          "checklist": [
+            "تحية ودّية",
+            "شرحت القرار",
+            "سبب التطوّع",
+            "دعوة للمشاركة",
+            "ختام ودّي"
+          ]
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "v1",
+      "skill": "vocabulary",
+      "theme": "t1",
+      "type": "mcq",
+      "prompt": "A career as a press photographer can be very ____ because you have to work under pressure and meet tight deadlines.",
+      "options": [
+        "relaxing",
+        "demanding",
+        "peaceful",
+        "boring"
+      ],
+      "answer": 1,
+      "explanation_ar": "demanding = يتطلّب جهداً وضغط. الجملة تتكلّم عن ضغط ومواعيد ضيقة، فالجواب demanding.",
+      "src": "sample"
+    },
+    {
+      "id": "v2",
+      "skill": "vocabulary",
+      "theme": "t3",
+      "type": "mcq",
+      "prompt": "Many young people today have a ____ lifestyle, spending hours sitting in front of computers.",
+      "options": [
+        "active",
+        "healthy",
+        "sedentary",
+        "energetic"
+      ],
+      "answer": 2,
+      "explanation_ar": "sedentary = خامل / قليل الحركة. باقي الكلمات تعني نشيط وصحي، وهي عكس الجلوس الطويل.",
+      "src": "sample"
+    },
+    {
+      "id": "v3",
+      "skill": "vocabulary",
+      "theme": "t3",
+      "type": "mcq",
+      "prompt": "To protect children, medicines should be locked away in a safe place, out of ____.",
+      "options": [
+        "sight",
+        "reach",
+        "control",
+        "danger"
+      ],
+      "answer": 1,
+      "explanation_ar": "out of reach = بعيد عن المتناول. هي التركيب الثابت مع medicines.",
+      "src": "sample"
+    },
+    {
+      "id": "v4",
+      "skill": "vocabulary",
+      "theme": "t4",
+      "type": "mcq",
+      "prompt": "Responsible citizens have a ____ to obey the law and respect the rights of others.",
+      "options": [
+        "hobby",
+        "choice",
+        "freedom",
+        "duty"
+      ],
+      "answer": 3,
+      "explanation_ar": "duty = واجب / مسؤولية. المواطن المسؤول عليه واجب، ليس هواية أو خياراً.",
+      "src": "sample"
+    },
+    {
+      "id": "v5",
+      "skill": "vocabulary",
+      "theme": "t3",
+      "type": "mcq",
+      "prompt": "A natural disaster such as a cyclone can cause widespread ____ to homes and infrastructure.",
+      "options": [
+        "damage",
+        "benefit",
+        "improvement",
+        "construction"
+      ],
+      "answer": 0,
+      "explanation_ar": "damage = أضرار. الكوارث تسبّب دماراً، لا منفعةً أو تحسيناً.",
+      "src": "sample"
+    },
+    {
+      "id": "v6",
+      "skill": "vocabulary",
+      "theme": "t1",
+      "type": "mcq",
+      "prompt": "The diver was ____ when she saw the shipwreck for the first time.",
+      "options": [
+        "bored",
+        "astonished",
+        "relaxed",
+        "calm"
+      ],
+      "answer": 1,
+      "explanation_ar": "astonished = مذهول (صفة قوية للدهشة). رؤية شيء مبهر تجعلك astonished.",
+      "src": "practice"
+    },
+    {
+      "id": "v7",
+      "skill": "vocabulary",
+      "theme": "t1",
+      "type": "mcq",
+      "prompt": "Some paparazzi are very ____, following celebrities even into private places.",
+      "options": [
+        "polite",
+        "intrusive",
+        "helpful",
+        "shy"
+      ],
+      "answer": 1,
+      "explanation_ar": "intrusive = متطفّل / مزعج. ملاحقة الناس في خصوصياتهم تصرّف intrusive.",
+      "src": "practice"
+    },
+    {
+      "id": "v8",
+      "skill": "vocabulary",
+      "theme": "t2",
+      "type": "mcq",
+      "prompt": "Before the interview, make sure your ____ matches the job requirements.",
+      "options": [
+        "hobby",
+        "CV",
+        "weather",
+        "lunch"
+      ],
+      "answer": 1,
+      "explanation_ar": "CV = السيرة الذاتية، وهي التي توضّح مؤهلاتك للوظيفة.",
+      "src": "practice"
+    },
+    {
+      "id": "v9",
+      "skill": "vocabulary",
+      "theme": "t2",
+      "type": "mcq",
+      "prompt": "Good ____ skills are essential because you must explain your ideas clearly to others.",
+      "options": [
+        "communication",
+        "cooking",
+        "driving",
+        "drawing"
+      ],
+      "answer": 0,
+      "explanation_ar": "communication skills = مهارات التواصل، وهي المرتبطة بشرح الأفكار بوضوح.",
+      "src": "practice"
+    },
+    {
+      "id": "v10",
+      "skill": "vocabulary",
+      "theme": "t2",
+      "type": "mcq",
+      "prompt": "She is a ____ employee who always finishes her work quickly and correctly.",
+      "options": [
+        "lazy",
+        "efficient",
+        "careless",
+        "slow"
+      ],
+      "answer": 1,
+      "explanation_ar": "efficient = كفؤ / فعّال. ينجز بسرعة ودقّة.",
+      "src": "practice"
+    },
+    {
+      "id": "v11",
+      "skill": "vocabulary",
+      "theme": "t3",
+      "type": "mcq",
+      "prompt": "Eating too much ____ food, high in fat and salt, can lead to obesity.",
+      "options": [
+        "fresh",
+        "processed",
+        "raw",
+        "green"
+      ],
+      "answer": 1,
+      "explanation_ar": "processed food = طعام مُصنّع، غالباً عالي بالدهون والملح.",
+      "src": "practice"
+    },
+    {
+      "id": "v12",
+      "skill": "vocabulary",
+      "theme": "t3",
+      "type": "mcq",
+      "prompt": "When the cyclone approached, thousands of families had to ____ their homes.",
+      "options": [
+        "decorate",
+        "evacuate",
+        "build",
+        "clean"
+      ],
+      "answer": 1,
+      "explanation_ar": "evacuate = يُخلي. عند الخطر تترك البيوت لمكان آمن.",
+      "src": "practice"
+    },
+    {
+      "id": "v13",
+      "skill": "vocabulary",
+      "theme": "t4",
+      "type": "mcq",
+      "prompt": "Dar al'Atta'a is an Omani ____ that helps poor families across the country.",
+      "options": [
+        "company",
+        "NGO",
+        "school",
+        "factory"
+      ],
+      "answer": 1,
+      "explanation_ar": "NGO = منظمة غير حكومية، وهي وصف دار العطاء.",
+      "src": "practice"
+    },
+    {
+      "id": "v14",
+      "skill": "vocabulary",
+      "theme": "t4",
+      "type": "mcq",
+      "prompt": "Volunteers ____ their free time to help others without any payment.",
+      "options": [
+        "waste",
+        "dedicate",
+        "sell",
+        "hide"
+      ],
+      "answer": 1,
+      "explanation_ar": "dedicate = يكرّس. المتطوّع يكرّس وقته لمساعدة الغير.",
+      "src": "practice"
+    },
+    {
+      "id": "v15",
+      "skill": "vocabulary",
+      "theme": "t4",
+      "type": "mcq",
+      "prompt": "Her inspiring story ____ many young people to start volunteering.",
+      "options": [
+        "bored",
+        "inspired",
+        "stopped",
+        "ignored"
+      ],
+      "answer": 1,
+      "explanation_ar": "inspire = يلهِم. القصص الملهِمة تحفّز الناس.",
+      "src": "practice"
+    },
+    {
+      "id": "v16",
+      "skill": "vocabulary",
+      "theme": "t1",
+      "type": "mcq",
+      "prompt": "The journalist always checks her ____ before publishing a story.",
+      "options": [
+        "source",
+        "shoes",
+        "lunch",
+        "car"
+      ],
+      "answer": 0,
+      "explanation_ar": "source = مصدر. الصحفي يتأكّد من مصدر الخبر.",
+      "src": "practice"
+    },
+    {
+      "id": "v17",
+      "skill": "vocabulary",
+      "theme": "t1",
+      "type": "mcq",
+      "prompt": "It was a ____ accident in which several people lost their lives.",
+      "options": [
+        "funny",
+        "tragic",
+        "happy",
+        "boring"
+      ],
+      "answer": 1,
+      "explanation_ar": "tragic = مأساوي (صفة قوية لـ sad). مناسبة لحادث فيه وفيات.",
+      "src": "practice"
+    },
+    {
+      "id": "v18",
+      "skill": "vocabulary",
+      "theme": "t3",
+      "type": "mcq",
+      "prompt": "Doing ____ exercise three times a week strengthens your muscles and heart.",
+      "options": [
+        "regular",
+        "rare",
+        "lazy",
+        "sedentary"
+      ],
+      "answer": 0,
+      "explanation_ar": "regular exercise = تمارين منتظمة، وهي التي تقوّي الجسم.",
+      "src": "practice"
+    },
+    {
+      "id": "v19",
+      "skill": "vocabulary",
+      "theme": "t2",
+      "type": "mcq",
+      "prompt": "Please ____ your CV with the application form.",
+      "options": [
+        "enclose",
+        "throw",
+        "forget",
+        "hide"
+      ],
+      "answer": 0,
+      "explanation_ar": "enclose = يُرفِق. ترفق السيرة الذاتية مع الاستمارة.",
+      "src": "practice"
+    },
+    {
+      "id": "v20",
+      "skill": "vocabulary",
+      "theme": "t4",
+      "type": "mcq",
+      "prompt": "Omanis are famous for being ____, always welcoming guests with coffee and dates.",
+      "options": [
+        "rude",
+        "hospitable",
+        "selfish",
+        "quiet"
+      ],
+      "answer": 1,
+      "explanation_ar": "hospitable = مِضياف / كريم في استقبال الضيوف.",
+      "src": "practice"
+    },
+    {
+      "id": "v21",
+      "skill": "vocabulary",
+      "theme": "t1",
+      "type": "mcq",
+      "prompt": "Journalists must always check their ____ before publishing a story.",
+      "options": [
+        "sources",
+        "hobbies",
+        "meals",
+        "clothes"
+      ],
+      "answer": 0,
+      "explanation_ar": "source = مصدر المعلومة، ويجب التأكد منه قبل النشر.",
+      "src": "practice"
+    },
+    {
+      "id": "v22",
+      "skill": "vocabulary",
+      "theme": "t1",
+      "type": "mcq",
+      "prompt": "The newspaper printed a shocking ____ on its front page.",
+      "options": [
+        "recipe",
+        "ticket",
+        "password",
+        "headline"
+      ],
+      "answer": 3,
+      "explanation_ar": "headline = العنوان الرئيسي للخبر.",
+      "src": "practice"
+    },
+    {
+      "id": "v23",
+      "skill": "vocabulary",
+      "theme": "t1",
+      "type": "mcq",
+      "prompt": "Live matches are ____ on television to millions of viewers.",
+      "options": [
+        "deleted",
+        "ignored",
+        "broadcast",
+        "hidden"
+      ],
+      "answer": 2,
+      "explanation_ar": "broadcast = يُبَثّ عبر التلفاز.",
+      "src": "practice"
+    },
+    {
+      "id": "v24",
+      "skill": "vocabulary",
+      "theme": "t1",
+      "type": "mcq",
+      "prompt": "A fair reporter tries to avoid ____ and stay neutral.",
+      "options": [
+        "balance",
+        "bias",
+        "accuracy",
+        "honesty"
+      ],
+      "answer": 1,
+      "explanation_ar": "bias = التحيّز، والصحفي العادل يتجنّبه.",
+      "src": "practice"
+    },
+    {
+      "id": "v25",
+      "skill": "vocabulary",
+      "theme": "t1",
+      "type": "mcq",
+      "prompt": "The government was accused of ____ the news to hide the truth.",
+      "options": [
+        "censoring",
+        "printing",
+        "reading",
+        "selling"
+      ],
+      "answer": 0,
+      "explanation_ar": "censoring = فرض الرقابة وحجب المعلومات.",
+      "src": "practice"
+    },
+    {
+      "id": "v26",
+      "skill": "vocabulary",
+      "theme": "t1",
+      "type": "mcq",
+      "prompt": "The story received wide media ____ across the country.",
+      "options": [
+        "silence",
+        "weather",
+        "traffic",
+        "coverage"
+      ],
+      "answer": 3,
+      "explanation_ar": "coverage = التغطية الإعلامية.",
+      "src": "practice"
+    },
+    {
+      "id": "v27",
+      "skill": "vocabulary",
+      "theme": "t1",
+      "type": "mcq",
+      "prompt": "Press photographers must meet tight ____ to publish on time.",
+      "options": [
+        "meals",
+        "songs",
+        "deadlines",
+        "holidays"
+      ],
+      "answer": 2,
+      "explanation_ar": "deadline = الموعد النهائي للتسليم.",
+      "src": "practice"
+    },
+    {
+      "id": "v28",
+      "skill": "vocabulary",
+      "theme": "t1",
+      "type": "mcq",
+      "prompt": "The magazine interviewed a famous ____ about her new film.",
+      "options": [
+        "building",
+        "celebrity",
+        "stranger",
+        "machine"
+      ],
+      "answer": 1,
+      "explanation_ar": "celebrity = شخص مشهور/نجم.",
+      "src": "practice"
+    },
+    {
+      "id": "v29",
+      "skill": "vocabulary",
+      "theme": "t2",
+      "type": "mcq",
+      "prompt": "You should ____ for the job before the closing date.",
+      "options": [
+        "apply",
+        "sleep",
+        "cook",
+        "travel"
+      ],
+      "answer": 0,
+      "explanation_ar": "apply for = يتقدّم لوظيفة.",
+      "src": "practice"
+    },
+    {
+      "id": "v30",
+      "skill": "vocabulary",
+      "theme": "t2",
+      "type": "mcq",
+      "prompt": "Strong communication ____ are important in any career.",
+      "options": [
+        "shoes",
+        "meals",
+        "colours",
+        "skills"
+      ],
+      "answer": 3,
+      "explanation_ar": "skills = مهارات.",
+      "src": "practice"
+    },
+    {
+      "id": "v31",
+      "skill": "vocabulary",
+      "theme": "t2",
+      "type": "mcq",
+      "prompt": "She was offered a ____ to a higher position after two years.",
+      "options": [
+        "mistake",
+        "delay",
+        "promotion",
+        "holiday"
+      ],
+      "answer": 2,
+      "explanation_ar": "promotion = ترقية.",
+      "src": "practice"
+    },
+    {
+      "id": "v32",
+      "skill": "vocabulary",
+      "theme": "t2",
+      "type": "mcq",
+      "prompt": "During the ____, the manager asked about my experience.",
+      "options": [
+        "game",
+        "interview",
+        "lunch",
+        "accident"
+      ],
+      "answer": 1,
+      "explanation_ar": "interview = مقابلة عمل.",
+      "src": "practice"
+    },
+    {
+      "id": "v33",
+      "skill": "vocabulary",
+      "theme": "t2",
+      "type": "mcq",
+      "prompt": "He earns a good monthly ____ at the company.",
+      "options": [
+        "salary",
+        "weather",
+        "ticket",
+        "rumour"
+      ],
+      "answer": 0,
+      "explanation_ar": "salary = راتب شهري.",
+      "src": "practice"
+    },
+    {
+      "id": "v34",
+      "skill": "vocabulary",
+      "theme": "t2",
+      "type": "mcq",
+      "prompt": "A strong CV lists your ____ and work experience.",
+      "options": [
+        "excuses",
+        "complaints",
+        "secrets",
+        "qualifications"
+      ],
+      "answer": 3,
+      "explanation_ar": "qualifications = المؤهلات.",
+      "src": "practice"
+    },
+    {
+      "id": "v35",
+      "skill": "vocabulary",
+      "theme": "t2",
+      "type": "mcq",
+      "prompt": "My ____ at work helped me finish the project on time.",
+      "options": [
+        "pets",
+        "neighbours",
+        "colleagues",
+        "enemies"
+      ],
+      "answer": 2,
+      "explanation_ar": "colleagues = زملاء العمل.",
+      "src": "practice"
+    },
+    {
+      "id": "v36",
+      "skill": "vocabulary",
+      "theme": "t3",
+      "type": "mcq",
+      "prompt": "A headache can be an early ____ of illness.",
+      "options": [
+        "recipe",
+        "symptom",
+        "reward",
+        "holiday"
+      ],
+      "answer": 1,
+      "explanation_ar": "symptom = عَرَض مرضي.",
+      "src": "practice"
+    },
+    {
+      "id": "v37",
+      "skill": "vocabulary",
+      "theme": "t3",
+      "type": "mcq",
+      "prompt": "Washing your hands regularly helps to ____ disease.",
+      "options": [
+        "prevent",
+        "cause",
+        "sell",
+        "ignore"
+      ],
+      "answer": 0,
+      "explanation_ar": "prevent = يمنع/يقي من.",
+      "src": "practice"
+    },
+    {
+      "id": "v38",
+      "skill": "vocabulary",
+      "theme": "t3",
+      "type": "mcq",
+      "prompt": "Wearing a helmet reduces the risk of head ____.",
+      "options": [
+        "success",
+        "comfort",
+        "profit",
+        "injury"
+      ],
+      "answer": 3,
+      "explanation_ar": "injury = إصابة.",
+      "src": "practice"
+    },
+    {
+      "id": "v39",
+      "skill": "vocabulary",
+      "theme": "t3",
+      "type": "mcq",
+      "prompt": "Good personal ____ keeps the body clean and healthy.",
+      "options": [
+        "weather",
+        "fashion",
+        "hygiene",
+        "traffic"
+      ],
+      "answer": 2,
+      "explanation_ar": "hygiene = النظافة الشخصية.",
+      "src": "practice"
+    },
+    {
+      "id": "v40",
+      "skill": "vocabulary",
+      "theme": "t3",
+      "type": "mcq",
+      "prompt": "In an ____, call the ambulance immediately.",
+      "options": [
+        "election",
+        "emergency",
+        "interview",
+        "exam"
+      ],
+      "answer": 1,
+      "explanation_ar": "emergency = حالة طارئة.",
+      "src": "practice"
+    },
+    {
+      "id": "v41",
+      "skill": "vocabulary",
+      "theme": "t3",
+      "type": "mcq",
+      "prompt": "After resting for a week, he began to ____ from his illness.",
+      "options": [
+        "recover",
+        "suffer",
+        "increase",
+        "escape"
+      ],
+      "answer": 0,
+      "explanation_ar": "recover = يتعافى.",
+      "src": "practice"
+    },
+    {
+      "id": "v42",
+      "skill": "vocabulary",
+      "theme": "t3",
+      "type": "mcq",
+      "prompt": "The doctor gave the patient the right ____ for his condition.",
+      "options": [
+        "punishment",
+        "argument",
+        "distance",
+        "treatment"
+      ],
+      "answer": 3,
+      "explanation_ar": "treatment = علاج.",
+      "src": "practice"
+    },
+    {
+      "id": "v43",
+      "skill": "vocabulary",
+      "theme": "t3",
+      "type": "mcq",
+      "prompt": "A balanced ____ is essential for good health.",
+      "options": [
+        "noise",
+        "crowd",
+        "diet",
+        "joke"
+      ],
+      "answer": 2,
+      "explanation_ar": "diet = نظام غذائي.",
+      "src": "practice"
+    },
+    {
+      "id": "v44",
+      "skill": "vocabulary",
+      "theme": "t4",
+      "type": "mcq",
+      "prompt": "Many students ____ their free time to help the community.",
+      "options": [
+        "sell",
+        "volunteer",
+        "waste",
+        "hide"
+      ],
+      "answer": 1,
+      "explanation_ar": "volunteer = يتطوّع بـ.",
+      "src": "practice"
+    },
+    {
+      "id": "v45",
+      "skill": "vocabulary",
+      "theme": "t4",
+      "type": "mcq",
+      "prompt": "Every citizen has both rights and ____.",
+      "options": [
+        "responsibilities",
+        "holidays",
+        "rumours",
+        "hobbies"
+      ],
+      "answer": 0,
+      "explanation_ar": "responsibilities = مسؤوليات.",
+      "src": "practice"
+    },
+    {
+      "id": "v46",
+      "skill": "vocabulary",
+      "theme": "t4",
+      "type": "mcq",
+      "prompt": "We should protect the ____ by reducing pollution.",
+      "options": [
+        "salary",
+        "headline",
+        "interview",
+        "environment"
+      ],
+      "answer": 3,
+      "explanation_ar": "environment = البيئة.",
+      "src": "practice"
+    },
+    {
+      "id": "v47",
+      "skill": "vocabulary",
+      "theme": "t4",
+      "type": "mcq",
+      "prompt": "The ____ organized a campaign to clean the beach.",
+      "options": [
+        "machine",
+        "deadline",
+        "community",
+        "accident"
+      ],
+      "answer": 2,
+      "explanation_ar": "community = المجتمع المحلي.",
+      "src": "practice"
+    },
+    {
+      "id": "v48",
+      "skill": "vocabulary",
+      "theme": "t4",
+      "type": "mcq",
+      "prompt": "Giving to ____ helps people in need.",
+      "options": [
+        "waste",
+        "charity",
+        "traffic",
+        "gossip"
+      ],
+      "answer": 1,
+      "explanation_ar": "charity = العمل الخيري.",
+      "src": "practice"
+    },
+    {
+      "id": "v49",
+      "skill": "vocabulary",
+      "theme": "t4",
+      "type": "mcq",
+      "prompt": "Voting is an important ____ of every citizen.",
+      "options": [
+        "duty",
+        "hobby",
+        "holiday",
+        "secret"
+      ],
+      "answer": 0,
+      "explanation_ar": "duty = واجب.",
+      "src": "practice"
+    },
+    {
+      "id": "v50",
+      "skill": "vocabulary",
+      "theme": "t4",
+      "type": "mcq",
+      "prompt": "Respecting the law keeps ____ safe and orderly.",
+      "options": [
+        "weather",
+        "rumours",
+        "noise",
+        "society"
+      ],
+      "answer": 3,
+      "explanation_ar": "society = المجتمع.",
+      "src": "practice"
+    }
+  ],
+  "sets": [
+    {
+      "id": "set_tf_sample",
+      "skill": "reading_tf",
+      "theme": null,
+      "src": "sample",
+      "title_en": "Reading 1 — True or False",
+      "intro_ar": "اقرأ كل نص صغير ثم قرّر: الجملة صح أو خطأ؟ الجواب دائماً من النص نفسه.",
+      "items": [
+        {
+          "type": "tf",
+          "passage_en": "A career as a press photographer can be exciting and rewarding. You get to travel and meet interesting people. However, the job also involves unsocial hours, including evenings and weekends. You must be able to work under pressure and meet tight deadlines.",
+          "prompt": "Press photographers always work normal office hours from 9 a.m. to 5 p.m.",
+          "answer": false,
+          "explanation_ar": "خطأ. النص يقول العمل فيه unsocial hours تشمل المساءات وعطلات نهاية الأسبوع."
+        },
+        {
+          "type": "tf",
+          "passage_en": "To be a good journalist, you need excellent communication skills. You must be curious about the world and enjoy meeting people. You also need strong writing skills to present your stories clearly.",
+          "prompt": "Good communication skills are not important for a journalist.",
+          "answer": false,
+          "explanation_ar": "خطأ. النص يقول بالضبط إنك تحتاج excellent communication skills."
+        },
+        {
+          "type": "tf",
+          "passage_en": "Cyclone Gonu struck the coast of Oman in June 2007. It was the strongest tropical cyclone ever recorded in the Arabian Sea. The storm caused widespread flooding and damage, particularly in Muscat and Sur.",
+          "prompt": "Cyclone Gonu caused damage only in the city of Salalah.",
+          "answer": false,
+          "explanation_ar": "خطأ. النص يذكر أن الأضرار كانت particularly in Muscat and Sur، وليست صلالة."
+        },
+        {
+          "type": "tf",
+          "passage_en": "Many young people today have a sedentary lifestyle. They spend hours sitting in front of computers or watching television. This lack of physical activity is one of the main causes of obesity.",
+          "prompt": "A sedentary lifestyle involves sitting for long periods and not doing much exercise.",
+          "answer": true,
+          "explanation_ar": "صح. النص يصف sedentary lifestyle بالجلوس الطويل وقلة النشاط."
+        },
+        {
+          "type": "tf",
+          "passage_en": "Dar al'Atta'a is an Omani NGO that helps poor families. It runs several programmes, including Family Welfare and Education Care. During Ramadan, it distributes Iftar meals to those in need.",
+          "prompt": "Dar al'Atta'a is a government organization that only provides medical care.",
+          "answer": false,
+          "explanation_ar": "خطأ. هي NGO (غير حكومية)، وتقدّم برامج رعاية وتعليم، وليست طبية فقط."
+        },
+        {
+          "type": "tf",
+          "passage_en": "When applying for a job, it is essential to read the advertisement carefully. You should check whether the job requirements match your skills. If they ask for a CV and a covering letter, make sure you send both documents.",
+          "prompt": "It is important to send a CV and a covering letter only if the advertisement asks for them.",
+          "answer": true,
+          "explanation_ar": "صح. النص ينصح بإرسال الوثيقتين “if they ask for” أي إذا طلبوهما."
+        },
+        {
+          "type": "tf",
+          "passage_en": "Oman has very strong moral and cultural values. Citizens have a responsibility to uphold these values and to respect others. Being a good citizen also means contributing to the local community.",
+          "prompt": "A responsible Omani citizen should respect others and help improve their community.",
+          "answer": true,
+          "explanation_ar": "صح. النص يذكر أن على المواطن احترام الغير والمساهمة في مجتمعه."
+        }
+      ]
+    },
+    {
+      "id": "set_tf_p1",
+      "skill": "reading_tf",
+      "theme": null,
+      "src": "practice",
+      "title_en": "Reading 1 — True or False (practice)",
+      "intro_ar": "نفس الفكرة: اقرأ النص، ثم صح أو خطأ. لا تعتمد على معلوماتك العامة، فقط النص.",
+      "items": [
+        {
+          "type": "tf",
+          "passage_en": "Freelance journalists do not have one employer. They sell their stories to different newspapers and magazines. This gives them freedom, but it can also be stressful because their income is not always stable.",
+          "prompt": "Freelance journalists always work for a single newspaper.",
+          "answer": false,
+          "explanation_ar": "خطأ. freelance يعني يعمل لحسابه ويبيع لعدّة جهات."
+        },
+        {
+          "type": "tf",
+          "passage_en": "Regular exercise has many benefits. It strengthens the heart, improves mood, and helps prevent diseases such as diabetes. Doctors recommend at least thirty minutes of activity most days.",
+          "prompt": "Regular exercise can help prevent diseases like diabetes.",
+          "answer": true,
+          "explanation_ar": "صح. النص يذكر أنها helps prevent diseases such as diabetes."
+        },
+        {
+          "type": "tf",
+          "passage_en": "A covering letter should be short and formal. It introduces you and explains why you are suitable for the job. You should always attach your CV with it.",
+          "prompt": "A covering letter should be long and informal.",
+          "answer": false,
+          "explanation_ar": "خطأ. النص يقول short and formal (قصيرة ورسمية)."
+        },
+        {
+          "type": "tf",
+          "passage_en": "Volunteering is a great way to give back to the community. Volunteers do not receive money, but they gain valuable experience and the satisfaction of helping others.",
+          "prompt": "Volunteers are usually paid a high salary for their work.",
+          "answer": false,
+          "explanation_ar": "خطأ. النص يقول do not receive money."
+        },
+        {
+          "type": "tf",
+          "passage_en": "The Royal Oman Police played a crucial role during Cyclone Gonu. They helped families evacuate and took part in rescue operations, saving many lives.",
+          "prompt": "The Royal Oman Police helped in rescue operations during Cyclone Gonu.",
+          "answer": true,
+          "explanation_ar": "صح. النص يذكر مشاركتهم في rescue operations."
+        }
+      ]
+    },
+    {
+      "id": "set_comp_sample",
+      "skill": "reading_comp",
+      "theme": null,
+      "src": "sample",
+      "title_en": "Reading 2 — The Fishing Trip",
+      "intro_ar": "اقرأ القصة بتركيز ثم أجب. في Task 1 الإجابة قصيرة (4 كلمات أو أقل).",
+      "passage_en": "One Friday afternoon, two cousins, Ahmed and Salim, decided to go fishing. They were both seventeen years old and had been best friends since childhood. They took their small fishing boat from the shore near a quiet village in Muscat. The sea was calm and peaceful, and the sky was a perfect blue. They were both looking forward to a relaxing afternoon.\n\nThey motored out to a spot they knew, about a kilometre from the shore, where the fish were plentiful. For an hour, they had great success, catching several large fish. \"This is the best day ever!\" laughed Salim. \"Let's stay a little longer,\" suggested Ahmed. \"The fishing is too good to stop now.\"\n\nHowever, when they finally decided to head home, disaster struck. Ahmed tried to start the engine, but nothing happened. He tried again and again, but it was no use. \"It's broken!\" he shouted. Salim looked towards the shore. \"I don't know,\" he replied quietly, \"but look at those clouds over the mountains.\"\n\nDark storm clouds were gathering quickly on the horizon. The wind began to pick up, and the calm sea started to become rough. The small boat began to drift away from the shore, pulled by a strong current. The boys were terrified. They had no engine, no phone, and no way to call for help.\n\nFortunately, a police boat was patrolling the area. An officer named Rashid was scanning the sea with his binoculars. He noticed the small boat being tossed by the waves far from shore. \"That boat is in trouble! Speed up!\" he shouted.\n\nThe police boat raced across the water. When they reached the boys, they threw them a strong rope. Ahmed and Salim were soaking wet and frightened, but they were safe. The police towed their small boat back to the shore. Ahmed and Salim promised never to go out in the boat again without checking the weather forecast first.",
+      "items": [
+        {
+          "type": "short",
+          "prompt": "Where did Ahmed and Salim decide to go fishing?",
+          "accept": [
+            "near a quiet village",
+            "a quiet village in muscat",
+            "from the shore",
+            "near a village in muscat",
+            "quiet village muscat"
+          ],
+          "explanation_ar": "من الفقرة الأولى: from the shore near a quiet village in Muscat."
+        },
+        {
+          "type": "short",
+          "prompt": "Why did they want to stay longer at the fishing spot?",
+          "accept": [
+            "the fishing was too good",
+            "fishing was good",
+            "the fish were plentiful",
+            "fishing too good to stop",
+            "good fishing"
+          ],
+          "explanation_ar": "أحمد قال the fishing is too good to stop now."
+        },
+        {
+          "type": "short",
+          "prompt": "What happened when they tried to start the engine?",
+          "accept": [
+            "it was broken",
+            "nothing happened",
+            "it didn't start",
+            "it did not start",
+            "engine broken",
+            "it broke"
+          ],
+          "explanation_ar": "جرّب المحرّك وما اشتغل — صرخ “It's broken!”"
+        },
+        {
+          "type": "short",
+          "prompt": "What began to gather on the horizon?",
+          "accept": [
+            "dark storm clouds",
+            "storm clouds",
+            "dark clouds",
+            "clouds"
+          ],
+          "explanation_ar": "Dark storm clouds were gathering on the horizon."
+        },
+        {
+          "type": "short",
+          "prompt": "Who spotted the boys from the police boat?",
+          "accept": [
+            "rashid",
+            "an officer named rashid",
+            "officer rashid",
+            "a police officer"
+          ],
+          "explanation_ar": "الضابط Rashid هو الذي لاحظهم بالمنظار."
+        },
+        {
+          "type": "short",
+          "prompt": "What did the police throw to the boys to rescue them?",
+          "accept": [
+            "a strong rope",
+            "a rope",
+            "rope",
+            "strong rope"
+          ],
+          "explanation_ar": "رموا لهم a strong rope."
+        },
+        {
+          "type": "mcq",
+          "prompt": "At the beginning of the story, the sea was described as:",
+          "options": [
+            "Rough and dangerous.",
+            "Calm and peaceful.",
+            "Stormy and dark."
+          ],
+          "answer": 1,
+          "explanation_ar": "في البداية: The sea was calm and peaceful."
+        },
+        {
+          "type": "mcq",
+          "prompt": "The boys were unable to call for help because:",
+          "options": [
+            "They did not have a phone with them.",
+            "Their phone had fallen in the water.",
+            "There was no signal at sea."
+          ],
+          "answer": 0,
+          "explanation_ar": "النص يقول they had no engine, no phone — أصلاً ما عندهم جوّال."
+        },
+        {
+          "type": "mcq",
+          "prompt": "How did the police officer first notice the boys were in trouble?",
+          "options": [
+            "He heard them shouting for help.",
+            "He saw their boat with his binoculars.",
+            "Their families called the police."
+          ],
+          "answer": 1,
+          "explanation_ar": "Rashid was scanning the sea with his binoculars ولاحظ القارب."
+        },
+        {
+          "type": "mcq",
+          "prompt": "What lesson did the boys learn?",
+          "options": [
+            "Always catch as many fish as possible.",
+            "Never go fishing on a Friday.",
+            "Always check the weather forecast before going out to sea."
+          ],
+          "answer": 2,
+          "explanation_ar": "وعدوا أن لا يخرجوا دون التحقق من الطقس."
+        }
+      ]
+    },
+    {
+      "id": "set_comp_p1",
+      "skill": "reading_comp",
+      "theme": null,
+      "src": "practice",
+      "title_en": "Reading 2 — Mariam's Summer (practice)",
+      "intro_ar": "اقرأ القصة ثم أجب. الإجابة القصيرة دائماً من النص.",
+      "passage_en": "Last summer, Mariam decided to spend her holiday differently. Instead of staying at home, she signed up to volunteer with a local charity that helped elderly people in her neighbourhood. At first, she felt a little nervous, but the other volunteers were friendly and made her feel welcome.\n\nEvery morning, Mariam visited two or three elderly people. She helped them with their shopping, read them stories, and simply kept them company. One woman, Aunt Zainab, looked forward to Mariam's visits the most. She used to live alone and rarely spoke to anyone for days.\n\nBy the end of the summer, Mariam realised that she had gained far more than she had given. She had learned patience, made new friends, and felt proud to be helping her community. She decided to continue volunteering every weekend during the school year.",
+      "items": [
+        {
+          "type": "short",
+          "prompt": "Who did the charity help?",
+          "accept": [
+            "elderly people",
+            "old people",
+            "the elderly",
+            "elderly people in her neighbourhood"
+          ],
+          "explanation_ar": "الجمعية ساعدت elderly people."
+        },
+        {
+          "type": "short",
+          "prompt": "How did Mariam feel at first?",
+          "accept": [
+            "nervous",
+            "a little nervous",
+            "worried"
+          ],
+          "explanation_ar": "النص: she felt a little nervous."
+        },
+        {
+          "type": "short",
+          "prompt": "Who looked forward to Mariam's visits the most?",
+          "accept": [
+            "aunt zainab",
+            "zainab",
+            "an old woman",
+            "aunt zainab the old woman"
+          ],
+          "explanation_ar": "Aunt Zainab كانت تنتظر زياراتها."
+        },
+        {
+          "type": "mcq",
+          "prompt": "What did Mariam learn by the end of the summer?",
+          "options": [
+            "That volunteering is a waste of time.",
+            "That she had gained more than she had given.",
+            "That she preferred staying at home."
+          ],
+          "answer": 1,
+          "explanation_ar": "النص: she had gained far more than she had given."
+        },
+        {
+          "type": "mcq",
+          "prompt": "What did Mariam decide to do during the school year?",
+          "options": [
+            "Stop volunteering completely.",
+            "Volunteer every weekend.",
+            "Travel abroad."
+          ],
+          "answer": 1,
+          "explanation_ar": "قرّرت continue volunteering every weekend."
+        }
+      ]
+    },
+    {
+      "id": "set_gram_sample",
+      "skill": "grammar",
+      "theme": null,
+      "src": "sample",
+      "title_en": "Grammar — The Job Interview",
+      "intro_ar": "اقرأ الحوار واختر الصحيح لكل فراغ. ركّز على الأفعال الناقصة وزمن الجملة.",
+      "passage_en": "Salim is being interviewed by Mr Ali for a part-time job at a sports centre.\n\nMr Ali: Good morning, Salim. Thank you for coming. I can see from your CV that you (1) ____ some experience working with children.\nSalim: Yes, that's right. Last summer I helped at a football camp.\nMr Ali: Excellent. And what do you (2) ____ to study at university?\nSalim: I (3) ____ go to lectures, but I want to study Sports Science.\nMr Ali: Good. Now, in this job you (4) ____ be late, because the children arrive at exactly 4 p.m.\nSalim: Of course. I understand. I think I (5) ____ ask my brother to give me a lift to be sure.\nMr Ali: That sounds sensible. Welcome to the team!",
+      "items": [
+        {
+          "type": "mcq",
+          "prompt": "Gap (1): I can see you ____ some experience.",
+          "options": [
+            "has",
+            "have",
+            "having"
+          ],
+          "answer": 1,
+          "explanation_ar": "الفاعل you يأخذ have (ليس has)."
+        },
+        {
+          "type": "mcq",
+          "prompt": "Gap (2): What do you ____ to study?",
+          "options": [
+            "plan",
+            "planning",
+            "planned"
+          ],
+          "answer": 0,
+          "explanation_ar": "بعد do الفعل يبقى في صيغته الأساسية: do you plan."
+        },
+        {
+          "type": "mcq",
+          "prompt": "Gap (3): I ____ go to lectures (it's a past habit).",
+          "options": [
+            "use to",
+            "used to",
+            "using to"
+          ],
+          "answer": 1,
+          "explanation_ar": "للعادة الماضية نستخدم used to."
+        },
+        {
+          "type": "mcq",
+          "prompt": "Gap (4): You ____ be late (it is forbidden).",
+          "options": [
+            "don't have to",
+            "mustn't",
+            "needn't"
+          ],
+          "answer": 1,
+          "explanation_ar": "mustn't = ممنوع. الأطفال يصلون في الوقت المحدد، فالتأخّر ممنوع. (don't have to/needn't تعني غير ضروري — عكس المعنى)."
+        },
+        {
+          "type": "mcq",
+          "prompt": "Gap (5): I think I ____ ask my brother for a lift.",
+          "options": [
+            "should",
+            "must",
+            "used to"
+          ],
+          "answer": 0,
+          "explanation_ar": "should = نصيحة/فكرة جيدة، وهي الأنسب هنا."
+        }
+      ]
+    },
+    {
+      "id": "set_gram_p1",
+      "skill": "grammar",
+      "theme": null,
+      "src": "practice",
+      "title_en": "Grammar — After School (practice)",
+      "intro_ar": "حوار آخر للتدريب: كلام منقول، gerund/infinitive، used to، وأفعال ناقصة.",
+      "passage_en": "Two friends, Huda and Maha, are talking after school.\n\nHuda: You look tired. What's wrong?\nMaha: My little brother kept (1) ____ me last night while I was studying.\nHuda: Oh no. Did you tell your mother?\nMaha: Yes. She told me that she (2) ____ talk to him.\nHuda: Good. By the way, I (3) ____ play the piano when I was young, but I stopped.\nMaha: Really? You ____ (4) start again — it's a wonderful hobby.\nHuda: Maybe. I'd love (5) ____ how to play properly one day.",
+      "items": [
+        {
+          "type": "mcq",
+          "prompt": "Gap (1): My brother kept ____ me.",
+          "options": [
+            "interrupt",
+            "interrupting",
+            "to interrupt"
+          ],
+          "answer": 1,
+          "explanation_ar": "بعد keep يجي الفعل + ing: keep interrupting."
+        },
+        {
+          "type": "mcq",
+          "prompt": "Gap (2): She told me that she ____ talk to him (reported, future).",
+          "options": [
+            "will",
+            "would",
+            "won't"
+          ],
+          "answer": 1,
+          "explanation_ar": "في الكلام المنقول will تصبح would."
+        },
+        {
+          "type": "mcq",
+          "prompt": "Gap (3): I ____ play the piano when I was young.",
+          "options": [
+            "use to",
+            "used to",
+            "am used to"
+          ],
+          "answer": 1,
+          "explanation_ar": "عادة ماضية انتهت: used to."
+        },
+        {
+          "type": "mcq",
+          "prompt": "Gap (4): You ____ start again (advice).",
+          "options": [
+            "should",
+            "mustn't",
+            "used to"
+          ],
+          "answer": 0,
+          "explanation_ar": "نصيحة ودّية: should."
+        },
+        {
+          "type": "mcq",
+          "prompt": "Gap (5): I'd love ____ how to play.",
+          "options": [
+            "learning",
+            "to learn",
+            "learn"
+          ],
+          "answer": 1,
+          "explanation_ar": "بعد would love يجي to + فعل: to learn."
+        }
+      ]
+    },
+    {
+      "id": "set_cloze_sample",
+      "skill": "cloze",
+      "theme": null,
+      "src": "sample",
+      "title_en": "Cloze — Cyclone Gonu",
+      "intro_ar": "فقرة فيها فراغات. اختر الكلمة الأنسب لكل فراغ حسب المعنى.",
+      "passage_en": "In June 2007, Cyclone Gonu hit the coast of Oman, causing terrible (1) ____ to homes and roads. The authorities acted quickly and told thousands of people to (2) ____ their homes and move to safer areas. Emergency (3) ____, such as food and clean water, was given to those affected. Many volunteers were (4) ____ in the clean-up operation that followed. Within weeks, most essential services had been (5) ____, and life slowly returned to normal.",
+      "items": [
+        {
+          "type": "mcq",
+          "prompt": "Gap (1)",
+          "options": [
+            "benefit",
+            "damage",
+            "success"
+          ],
+          "answer": 1,
+          "explanation_ar": "damage = أضرار، وهي التي تسبّبها الأعاصير."
+        },
+        {
+          "type": "mcq",
+          "prompt": "Gap (2)",
+          "options": [
+            "decorate",
+            "evacuate",
+            "build"
+          ],
+          "answer": 1,
+          "explanation_ar": "evacuate = يُخلي، يناسب الانتقال لمكان آمن."
+        },
+        {
+          "type": "mcq",
+          "prompt": "Gap (3)",
+          "options": [
+            "aid",
+            "traffic",
+            "music"
+          ],
+          "answer": 0,
+          "explanation_ar": "emergency aid = إسعافات/مساعدات طارئة (طعام وماء)."
+        },
+        {
+          "type": "mcq",
+          "prompt": "Gap (4)",
+          "options": [
+            "bored",
+            "involved",
+            "absent"
+          ],
+          "answer": 1,
+          "explanation_ar": "be involved in = مشارك في. المتطوّعون شاركوا في التنظيف."
+        },
+        {
+          "type": "mcq",
+          "prompt": "Gap (5)",
+          "options": [
+            "destroyed",
+            "restored",
+            "cancelled"
+          ],
+          "answer": 1,
+          "explanation_ar": "restored = أُعيدت للعمل، يناسب رجوع الخدمات."
+        }
+      ]
+    },
+    {
+      "id": "set_cloze_p1",
+      "skill": "cloze",
+      "theme": null,
+      "src": "practice",
+      "title_en": "Cloze — A Healthy Lifestyle (practice)",
+      "intro_ar": "نفس الفكرة: اختر الكلمة الأنسب لكل فراغ.",
+      "passage_en": "Living a healthy life is not difficult. First, you should eat a balanced (1) ____ with plenty of fruit and vegetables. Second, try to do (2) ____ exercise, such as walking or swimming, for at least thirty minutes a day. This helps to (3) ____ your muscles and keep your heart strong. You should also avoid too much (4) ____ food, which is high in fat and sugar. Finally, getting enough sleep is (5) ____ for both your body and your mind.",
+      "items": [
+        {
+          "type": "mcq",
+          "prompt": "Gap (1)",
+          "options": [
+            "diet",
+            "disease",
+            "danger"
+          ],
+          "answer": 0,
+          "explanation_ar": "balanced diet = نظام غذائي متوازن."
+        },
+        {
+          "type": "mcq",
+          "prompt": "Gap (2)",
+          "options": [
+            "regular",
+            "rare",
+            "sedentary"
+          ],
+          "answer": 0,
+          "explanation_ar": "regular exercise = تمارين منتظمة."
+        },
+        {
+          "type": "mcq",
+          "prompt": "Gap (3)",
+          "options": [
+            "weaken",
+            "strengthen",
+            "ignore"
+          ],
+          "answer": 1,
+          "explanation_ar": "strengthen muscles = يقوّي العضلات."
+        },
+        {
+          "type": "mcq",
+          "prompt": "Gap (4)",
+          "options": [
+            "fresh",
+            "processed",
+            "natural"
+          ],
+          "answer": 1,
+          "explanation_ar": "processed food = طعام مصنّع (دهون وسكريات)."
+        },
+        {
+          "type": "mcq",
+          "prompt": "Gap (5)",
+          "options": [
+            "harmful",
+            "vital",
+            "useless"
+          ],
+          "answer": 1,
+          "explanation_ar": "vital = حيوي/ضروري جداً للجسم والعقل."
+        }
+      ]
+    },
+    {
+      "id": "set_tf_p2",
+      "skill": "reading_tf",
+      "theme": null,
+      "src": "practice",
+      "title_en": "True / False — More Practice",
+      "intro_ar": "اقرأ كل فقرة ثم قرّر إن كانت العبارة صحيحة أم خاطئة.",
+      "items": [
+        {
+          "type": "tf",
+          "passage_en": "Online newspapers update their stories many times a day. Readers can comment and share articles instantly.",
+          "prompt": "Online newspapers are updated only once a week.",
+          "answer": false,
+          "explanation_ar": "خطأ. النص يقول إنها تُحدَّث عدة مرات في اليوم."
+        },
+        {
+          "type": "tf",
+          "passage_en": "A balanced diet includes fruit, vegetables and enough water. Doctors say it helps the body fight illness.",
+          "prompt": "A balanced diet helps the body fight illness.",
+          "answer": true,
+          "explanation_ar": "صحيح، النص يذكر أنه يساعد الجسم على مقاومة المرض."
+        },
+        {
+          "type": "tf",
+          "passage_en": "Volunteers cleaned the beach last weekend. They collected more than fifty bags of plastic.",
+          "prompt": "The volunteers collected fewer than ten bags of plastic.",
+          "answer": false,
+          "explanation_ar": "خطأ، جمعوا أكثر من خمسين كيساً."
+        },
+        {
+          "type": "tf",
+          "passage_en": "To apply for the job, candidates must send a CV and attend an interview.",
+          "prompt": "Candidates only need to send a CV to get the job.",
+          "answer": false,
+          "explanation_ar": "خطأ، يجب أيضاً حضور مقابلة."
+        },
+        {
+          "type": "tf",
+          "passage_en": "Wearing a seatbelt saves lives, and it is required by law in Oman.",
+          "prompt": "Wearing a seatbelt is required by law in Oman.",
+          "answer": true,
+          "explanation_ar": "صحيح حسب النص."
+        },
+        {
+          "type": "tf",
+          "passage_en": "The journalist protected the identity of her source and refused to reveal the name.",
+          "prompt": "The journalist revealed the name of her source.",
+          "answer": false,
+          "explanation_ar": "خطأ، رفضت الكشف عن الاسم."
+        },
+        {
+          "type": "tf",
+          "passage_en": "Regular exercise strengthens the heart and improves mood. Experts recommend thirty minutes a day.",
+          "prompt": "Experts recommend thirty minutes of exercise a day.",
+          "answer": true,
+          "explanation_ar": "صحيح كما ورد في النص."
+        },
+        {
+          "type": "tf",
+          "passage_en": "The charity provides free education to children in poor areas and depends on donations.",
+          "prompt": "The charity charges children for education.",
+          "answer": false,
+          "explanation_ar": "خطأ، التعليم مجاني ويعتمد على التبرّعات."
+        },
+        {
+          "type": "tf",
+          "passage_en": "During the storm, the authorities told people to leave the coast, and many families moved to safer areas.",
+          "prompt": "People were told to stay near the coast during the storm.",
+          "answer": false,
+          "explanation_ar": "خطأ، طُلب منهم مغادرة الساحل."
+        },
+        {
+          "type": "tf",
+          "passage_en": "A good employee is punctual and works well in a team, and managers value reliability.",
+          "prompt": "Managers value reliability in their employees.",
+          "answer": true,
+          "explanation_ar": "صحيح كما ورد في النص."
+        },
+        {
+          "type": "tf",
+          "passage_en": "Recycling reduces waste and protects the environment, so many schools now have recycling bins.",
+          "prompt": "Recycling increases the amount of waste.",
+          "answer": false,
+          "explanation_ar": "خطأ، التدوير يقلّل النفايات."
+        },
+        {
+          "type": "tf",
+          "passage_en": "The news channel apologized for broadcasting incorrect information and promised to check facts carefully.",
+          "prompt": "The news channel promised to check its facts more carefully.",
+          "answer": true,
+          "explanation_ar": "صحيح كما ورد في النص."
+        }
+      ]
+    },
+    {
+      "id": "set_gram_p2",
+      "skill": "grammar",
+      "theme": null,
+      "src": "practice",
+      "title_en": "Dialogue: A School Trip",
+      "intro_ar": "حوار قصير عن رحلة مدرسية: أفعال ناقصة وكلام منقول. اختر الإجابة الصحيحة لكل فراغ.",
+      "passage_en": "Sara is talking to her teacher about a school trip.\n\nTeacher: You (1) ____ bring a permission letter from your parents.\nSara: I asked my father, and he said he (2) ____ sign it tonight.\nTeacher: You (3) ____ forget your water bottle; it will be hot.\nSara: Don't worry. He also told me that I (4) ____ take a hat.\nTeacher: Good. If you feel tired, you (5) ____ rest in the shade.",
+      "items": [
+        {
+          "type": "mcq",
+          "prompt": "Gap (1): You ____ bring a permission letter.",
+          "options": [
+            "must",
+            "musts",
+            "musting"
+          ],
+          "answer": 0,
+          "explanation_ar": "must + مصدر للتعبير عن الالتزام."
+        },
+        {
+          "type": "mcq",
+          "prompt": "Gap (2): he said he ____ sign it tonight.",
+          "options": [
+            "will",
+            "will to",
+            "would"
+          ],
+          "answer": 2,
+          "explanation_ar": "في الكلام المنقول تتحوّل will إلى would."
+        },
+        {
+          "type": "mcq",
+          "prompt": "Gap (3): You ____ forget your water bottle.",
+          "options": [
+            "needn't",
+            "mustn't",
+            "must"
+          ],
+          "answer": 1,
+          "explanation_ar": "mustn't = ممنوع/يجب ألّا."
+        },
+        {
+          "type": "mcq",
+          "prompt": "Gap (4): he told me that I ____ take a hat.",
+          "options": [
+            "should",
+            "shoulded",
+            "musts"
+          ],
+          "answer": 0,
+          "explanation_ar": "should للنصيحة، ولا تتغيّر في الكلام المنقول."
+        },
+        {
+          "type": "mcq",
+          "prompt": "Gap (5): you ____ rest in the shade.",
+          "options": [
+            "cans",
+            "to can",
+            "can"
+          ],
+          "answer": 2,
+          "explanation_ar": "can + مصدر للقدرة/الإمكانية."
+        }
+      ]
+    },
+    {
+      "id": "set_gram_p3",
+      "skill": "grammar",
+      "theme": null,
+      "src": "practice",
+      "title_en": "Dialogue: Career Plans",
+      "intro_ar": "حوار عن خطط العمل: التمييز بين gerund و infinitive. اختر الصيغة الصحيحة.",
+      "passage_en": "Ali is discussing his career plans with a friend.\n\nAli: I enjoy (1) ____ with computers, so I decided (2) ____ ICT at college.\nFriend: That's great. Do you want (3) ____ abroad later?\nAli: Maybe. I'm interested in (4) ____ new skills, and I look forward to (5) ____ a good job.",
+      "items": [
+        {
+          "type": "mcq",
+          "prompt": "Gap (1): I enjoy ____ with computers.",
+          "options": [
+            "working",
+            "work",
+            "to work"
+          ],
+          "answer": 0,
+          "explanation_ar": "بعد enjoy نستخدم gerund (فعل + ing)."
+        },
+        {
+          "type": "mcq",
+          "prompt": "Gap (2): I decided ____ ICT.",
+          "options": [
+            "studying",
+            "study",
+            "to study"
+          ],
+          "answer": 2,
+          "explanation_ar": "بعد decided نستخدم infinitive (to + فعل)."
+        },
+        {
+          "type": "mcq",
+          "prompt": "Gap (3): Do you want ____ abroad?",
+          "options": [
+            "work",
+            "to work",
+            "working"
+          ],
+          "answer": 1,
+          "explanation_ar": "بعد want نستخدم infinitive."
+        },
+        {
+          "type": "mcq",
+          "prompt": "Gap (4): I'm interested in ____ new skills.",
+          "options": [
+            "learning",
+            "learn",
+            "to learn"
+          ],
+          "answer": 0,
+          "explanation_ar": "بعد حرف الجر in نستخدم gerund."
+        },
+        {
+          "type": "mcq",
+          "prompt": "Gap (5): I look forward to ____ a good job.",
+          "options": [
+            "get",
+            "to get",
+            "getting"
+          ],
+          "answer": 2,
+          "explanation_ar": "في look forward to تكون to حرف جر فيتبعها gerund."
+        }
+      ]
+    },
+    {
+      "id": "set_gram_p4",
+      "skill": "grammar",
+      "theme": null,
+      "src": "practice",
+      "title_en": "Dialogue: Talking About the Past",
+      "intro_ar": "حوار عن الماضي: used to والسؤال في الماضي. اختر الإجابة الصحيحة.",
+      "passage_en": "A student is talking to his grandfather about the past.\n\nGrandfather: When I was young, I (1) ____ walk to school every day.\nStudent: Really? (2) ____ you play any sport?\nGrandfather: Yes. I (3) ____ to swim in the sea. We didn't (4) ____ have cars.\nStudent: Life (5) ____ very different then.",
+      "items": [
+        {
+          "type": "mcq",
+          "prompt": "Gap (1): I ____ walk to school every day.",
+          "options": [
+            "used to",
+            "use to",
+            "using to"
+          ],
+          "answer": 0,
+          "explanation_ar": "used to للعادة في الماضي."
+        },
+        {
+          "type": "mcq",
+          "prompt": "Gap (2): ____ you play any sport?",
+          "options": [
+            "Do",
+            "Done",
+            "Did"
+          ],
+          "answer": 2,
+          "explanation_ar": "السؤال في الماضي يبدأ بـ Did + مصدر."
+        },
+        {
+          "type": "mcq",
+          "prompt": "Gap (3): I ____ to swim in the sea.",
+          "options": [
+            "using",
+            "used",
+            "use"
+          ],
+          "answer": 1,
+          "explanation_ar": "used to في الإثبات."
+        },
+        {
+          "type": "mcq",
+          "prompt": "Gap (4): We didn't ____ have cars.",
+          "options": [
+            "use to",
+            "used to",
+            "using"
+          ],
+          "answer": 0,
+          "explanation_ar": "بعد didn't تصبح use to بدون d."
+        },
+        {
+          "type": "mcq",
+          "prompt": "Gap (5): Life ____ very different then.",
+          "options": [
+            "were",
+            "is",
+            "was"
+          ],
+          "answer": 2,
+          "explanation_ar": "الفاعل المفرد Life يأخذ was في الماضي."
+        }
+      ]
+    },
+    {
+      "id": "set_cloze_p2",
+      "skill": "cloze",
+      "theme": null,
+      "src": "practice",
+      "title_en": "Cloze: The Role of Newspapers",
+      "intro_ar": "نص بفراغات عن دور الصحافة. اختر الكلمة المناسبة لكل فراغ.",
+      "passage_en": "Newspapers play an important (1) ____ in society. They (2) ____ people about local and world events. A good journalist always checks the (3) ____ of information before publishing. However, readers should be (4) ____ of fake news, which spreads quickly online. Reading from trusted sources helps us form a balanced (5) ____.",
+      "items": [
+        {
+          "type": "mcq",
+          "prompt": "Gap (1)",
+          "options": [
+            "role",
+            "game",
+            "meal"
+          ],
+          "answer": 0,
+          "explanation_ar": "play a role = يلعب دوراً."
+        },
+        {
+          "type": "mcq",
+          "prompt": "Gap (2)",
+          "options": [
+            "forget",
+            "hide",
+            "inform"
+          ],
+          "answer": 2,
+          "explanation_ar": "inform = يُعلِم/يُخبر."
+        },
+        {
+          "type": "mcq",
+          "prompt": "Gap (3)",
+          "options": [
+            "price",
+            "source",
+            "weather"
+          ],
+          "answer": 1,
+          "explanation_ar": "source = مصدر المعلومة."
+        },
+        {
+          "type": "mcq",
+          "prompt": "Gap (4)",
+          "options": [
+            "aware",
+            "afraid",
+            "proud"
+          ],
+          "answer": 0,
+          "explanation_ar": "be aware of = على دراية/حذر من."
+        },
+        {
+          "type": "mcq",
+          "prompt": "Gap (5)",
+          "options": [
+            "accident",
+            "holiday",
+            "opinion"
+          ],
+          "answer": 2,
+          "explanation_ar": "form an opinion = يكوّن رأياً."
+        }
+      ]
+    },
+    {
+      "id": "set_cloze_p3",
+      "skill": "cloze",
+      "theme": null,
+      "src": "practice",
+      "title_en": "Cloze: Staying Healthy",
+      "intro_ar": "نص بفراغات عن الصحة. اختر الكلمة المناسبة لكل فراغ.",
+      "passage_en": "Staying healthy is not difficult. First, eat a balanced (1) ____ with plenty of vegetables. Second, (2) ____ regularly to keep your heart strong. You should also get enough (3) ____ at night so your body can rest. Washing your hands often helps to (4) ____ disease. Finally, see a doctor if you notice any unusual (5) ____.",
+      "items": [
+        {
+          "type": "mcq",
+          "prompt": "Gap (1)",
+          "options": [
+            "diet",
+            "noise",
+            "traffic"
+          ],
+          "answer": 0,
+          "explanation_ar": "balanced diet = نظام غذائي متوازن."
+        },
+        {
+          "type": "mcq",
+          "prompt": "Gap (2)",
+          "options": [
+            "argue",
+            "shout",
+            "exercise"
+          ],
+          "answer": 2,
+          "explanation_ar": "exercise = يمارس الرياضة."
+        },
+        {
+          "type": "mcq",
+          "prompt": "Gap (3)",
+          "options": [
+            "news",
+            "sleep",
+            "money"
+          ],
+          "answer": 1,
+          "explanation_ar": "get enough sleep = ينال قسطاً كافياً من النوم."
+        },
+        {
+          "type": "mcq",
+          "prompt": "Gap (4)",
+          "options": [
+            "prevent",
+            "cause",
+            "sell"
+          ],
+          "answer": 0,
+          "explanation_ar": "prevent disease = يقي من المرض."
+        },
+        {
+          "type": "mcq",
+          "prompt": "Gap (5)",
+          "options": [
+            "holidays",
+            "prices",
+            "symptoms"
+          ],
+          "answer": 2,
+          "explanation_ar": "symptoms = أعراض."
+        }
+      ]
+    },
+    {
+      "id": "set_cloze_p4",
+      "skill": "cloze",
+      "theme": null,
+      "src": "practice",
+      "title_en": "Cloze: Being a Good Citizen",
+      "intro_ar": "نص بفراغات عن المواطنة. اختر الكلمة المناسبة لكل فراغ.",
+      "passage_en": "Being a good citizen means caring about your (1) ____. We can help by (2) ____ our time to those in need. Protecting the (3) ____ is also important, so we should reduce pollution and recycle. Every person has rights, but also (4) ____ towards others. By working together, we can build a stronger (5) ____.",
+      "items": [
+        {
+          "type": "mcq",
+          "prompt": "Gap (1)",
+          "options": [
+            "community",
+            "salary",
+            "headline"
+          ],
+          "answer": 0,
+          "explanation_ar": "community = المجتمع المحلي."
+        },
+        {
+          "type": "mcq",
+          "prompt": "Gap (2)",
+          "options": [
+            "wasting",
+            "hiding",
+            "giving"
+          ],
+          "answer": 2,
+          "explanation_ar": "بعد by نستخدم gerond: giving our time = منح وقتنا."
+        },
+        {
+          "type": "mcq",
+          "prompt": "Gap (3)",
+          "options": [
+            "rumour",
+            "environment",
+            "interview"
+          ],
+          "answer": 1,
+          "explanation_ar": "environment = البيئة."
+        },
+        {
+          "type": "mcq",
+          "prompt": "Gap (4)",
+          "options": [
+            "responsibilities",
+            "holidays",
+            "hobbies"
+          ],
+          "answer": 0,
+          "explanation_ar": "responsibilities = مسؤوليات."
+        },
+        {
+          "type": "mcq",
+          "prompt": "Gap (5)",
+          "options": [
+            "traffic",
+            "gossip",
+            "society"
+          ],
+          "answer": 2,
+          "explanation_ar": "society = المجتمع."
+        }
+      ]
+    }
+  ]
+}
