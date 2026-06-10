@@ -99,7 +99,7 @@
     const tb = $('#topbar');
     tb.innerHTML =
       (back ? `<a class="topbar__back" href="${esc(back)}" aria-label="Back">‹</a>` : '') +
-      `<div class="topbar__mark">Habiba's <b>English</b> Guide</div>` +
+      `<div class="topbar__mark">Study with <b>Habiba</b></div>` +
       (ctx ? `<div class="topbar__ctx">${esc(ctx)}</div>` : '');
 
     const tabs = [
@@ -866,7 +866,7 @@
     $('#app').innerHTML = `<div class="loader"><div class="spinner"></div><div class="ar" lang="ar">لحظة… نجهّز المراجعة</div></div>`;
   }
   function showError() {
-    $('#topbar').innerHTML = `<div class="topbar__mark">Habiba's <b>English</b> Guide</div>`;
+    $('#topbar').innerHTML = `<div class="topbar__mark">Study with <b>Habiba</b></div>`;
     $('#app').innerHTML = `<div class="card center" style="margin-top:var(--s8)"><div style="font-size:44px">${emoji('📡')}</div>` +
       `<h2 class="h2 en-serif" style="margin-top:var(--s3)">Couldn't load content</h2>` +
       arP('تعذّر تحميل المحتوى. تأكّد من الاتصال وأعد تحميل الصفحة.', ' style="margin-top:var(--s2)"') +
