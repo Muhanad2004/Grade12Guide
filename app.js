@@ -657,7 +657,7 @@
       `<div style="font-size:56px">${emoji('📝')}</div>` +
       `<h1 class="h1 en-serif" style="margin-top:var(--s3)">Mock Exam</h1>` +
       arP('في حصة المراجعة', ' style="margin-top:var(--s3);font-size:20px;font-weight:700;color:var(--brand-700)"') +
-      arP('الامتحان التجريبي يُفتح خلال حصة المراجعة المباشرة مع المعلم.', ' style="margin-top:var(--s2);color:var(--ink-2)"') +
+      arP('سيُفتح الامتحان التجريبي خلال حصة المراجعة على Google Meet.', ' style="margin-top:var(--s2);color:var(--ink-2)"') +
       `</div>`;
   }
 
