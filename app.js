@@ -190,10 +190,17 @@
   function renderMeet(box, m) {
     if (!m || !m.active) { box.style.display = 'none'; return; }
     const hasLink = m.link && /^https?:\/\//i.test(m.link);
+    const btnLabel = m.btn_label_ar || 'انضم إلى الجلسة';
     const action = hasLink
       ? `<a class="btn btn--primary btn--block" href="${esc(m.link)}" target="_blank" rel="noopener" style="margin-top:var(--s4)">` +
-        `<span class="ar">انضم إلى الجلسة</span></a>`
+        `<span class="ar">${esc(btnLabel)}</span></a>` +
+        (m.link_hint_ar ? `<p class="ar" style="margin-top:var(--s2);font-size:13px;color:var(--ink-3);text-align:center">${esc(m.link_hint_ar)}</p>` : '')
       : `<div class="meet-card__pending">${arP(m.link_note_ar || 'رابط الجلسة سيظهر هنا قبل الموعد.')}</div>`;
+    const topicsList = Array.isArray(m.topics_ar) && m.topics_ar.length
+      ? `<ul class="ar" style="margin:var(--s3) 0 0;padding-right:var(--s4);color:var(--ink-2);font-size:15px;line-height:1.9">` +
+        m.topics_ar.map(t => `<li>${esc(t)}</li>`).join('') +
+        `</ul>`
+      : '';
     box.innerHTML =
       `<div class="row" style="gap:var(--s3);align-items:flex-start">` +
       `<span class="meet-card__emoji">${emoji('🎥')}</span>` +
@@ -201,6 +208,7 @@
       `<div class="meet-card__badge"><span class="meet-card__dot"></span>${ar('مباشر · LIVE')}</div>` +
       `<div class="h2 en-serif" style="margin-top:6px">${esc(m.title_ar || 'جلسة مباشرة')}</div>` +
       (m.date_ar ? `<div class="meet-card__date">${ar(m.date_ar)}</div>` : '') +
+      topicsList +
       (m.desc_ar ? arP(m.desc_ar, ' style="margin-top:var(--s3);color:var(--ink-2)"') : '') +
       `</div></div>` + action;
   }
